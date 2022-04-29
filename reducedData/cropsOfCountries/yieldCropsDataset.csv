@@ -1,0 +1,3158 @@
+,Area,Item,Year,Value
+394,Afghanistan,Apples,2010,70000.0
+395,Afghanistan,Apples,2011,70000.0
+396,Afghanistan,Apples,2012,76519.0
+397,Afghanistan,Apples,2013,76005.0
+398,Afghanistan,Apples,2014,73000.0
+399,Afghanistan,Apples,2015,68824.0
+400,Afghanistan,Apples,2016,72762.0
+401,Afghanistan,Apples,2017,65184.0
+402,Afghanistan,Apples,2018,76527.0
+403,Afghanistan,Apples,2019,90832.0
+571,Afghanistan,Apricots,2010,80000.0
+572,Afghanistan,Apricots,2011,81725.0
+573,Afghanistan,Apricots,2012,100000.0
+574,Afghanistan,Apricots,2013,99944.0
+575,Afghanistan,Apricots,2014,99944.0
+576,Afghanistan,Apricots,2015,96189.0
+577,Afghanistan,Apricots,2016,20819.0
+578,Afghanistan,Apricots,2017,72960.0
+579,Afghanistan,Apricots,2018,58934.0
+580,Afghanistan,Apricots,2019,73008.0
+748,Afghanistan,Barley,2010,20613.0
+749,Afghanistan,Barley,2011,16100.0
+750,Afghanistan,Barley,2012,18000.0
+751,Afghanistan,Barley,2013,18489.0
+752,Afghanistan,Barley,2014,15213.0
+753,Afghanistan,Barley,2015,14291.0
+754,Afghanistan,Barley,2016,13770.0
+755,Afghanistan,Barley,2017,13933.0
+756,Afghanistan,Barley,2018,6748.0
+757,Afghanistan,Barley,2019,14699.0
+1810,Afghanistan,Grapes,2010,64941.0
+1811,Afghanistan,Grapes,2011,80000.0
+1812,Afghanistan,Grapes,2012,95650.0
+1813,Afghanistan,Grapes,2013,98292.0
+1814,Afghanistan,Grapes,2014,95000.0
+1815,Afghanistan,Grapes,2015,102321.0
+1816,Afghanistan,Grapes,2016,106069.0
+1817,Afghanistan,Grapes,2017,108156.0
+1818,Afghanistan,Grapes,2018,112445.0
+1819,Afghanistan,Grapes,2019,124220.0
+2164,Afghanistan,Maize,2010,16448.0
+2165,Afghanistan,Maize,2011,16400.0
+2166,Afghanistan,Maize,2012,21986.0
+2167,Afghanistan,Maize,2013,21972.0
+2168,Afghanistan,Maize,2014,24882.0
+2169,Afghanistan,Maize,2015,21457.0
+2170,Afghanistan,Maize,2016,20517.0
+2171,Afghanistan,Maize,2017,12957.0
+2172,Afghanistan,Maize,2018,14727.0
+2173,Afghanistan,Maize,2019,19457.0
+2518,Afghanistan,Millet,2010,30000.0
+2519,Afghanistan,Millet,2011,30000.0
+2520,Afghanistan,Millet,2012,30000.0
+2521,Afghanistan,Millet,2013,26000.0
+2522,Afghanistan,Millet,2014,24845.0
+2523,Afghanistan,Millet,2015,23201.0
+2524,Afghanistan,Millet,2016,23109.0
+2525,Afghanistan,Millet,2017,22160.0
+2526,Afghanistan,Millet,2018,21240.0
+2527,Afghanistan,Millet,2019,19372.0
+3136,Afghanistan,Oranges,2010,20000.0
+3137,Afghanistan,Oranges,2011,60000.0
+3138,Afghanistan,Oranges,2012,60000.0
+3139,Afghanistan,Oranges,2013,60190.0
+3140,Afghanistan,Oranges,2014,66000.0
+3141,Afghanistan,Oranges,2015,49015.0
+3142,Afghanistan,Oranges,2016,44959.0
+3143,Afghanistan,Oranges,2017,50451.0
+3144,Afghanistan,Oranges,2018,50433.0
+3145,Afghanistan,Oranges,2019,49640.0
+3978,Afghanistan,Potatoes,2010,120000.0
+3979,Afghanistan,Potatoes,2011,100000.0
+3980,Afghanistan,Potatoes,2012,109524.0
+3981,Afghanistan,Potatoes,2013,131960.0
+3982,Afghanistan,Potatoes,2014,136054.0
+3983,Afghanistan,Potatoes,2015,130903.0
+3984,Afghanistan,Potatoes,2016,119868.0
+3985,Afghanistan,Potatoes,2017,159794.0
+3986,Afghanistan,Potatoes,2018,190026.0
+3987,Afghanistan,Potatoes,2019,161413.0
+4332,Afghanistan,"Rice, paddy",2010,32308.0
+4333,Afghanistan,"Rice, paddy",2011,32000.0
+4334,Afghanistan,"Rice, paddy",2012,24390.0
+4335,Afghanistan,"Rice, paddy",2013,24980.0
+4336,Afghanistan,"Rice, paddy",2014,24409.0
+4337,Afghanistan,"Rice, paddy",2015,25000.0
+4338,Afghanistan,"Rice, paddy",2016,29963.0
+4339,Afghanistan,"Rice, paddy",2017,30919.0
+4340,Afghanistan,"Rice, paddy",2018,29963.0
+4341,Afghanistan,"Rice, paddy",2019,29993.0
+4568,Afghanistan,Seed cotton,2010,10000.0
+4569,Afghanistan,Seed cotton,2011,10000.0
+4570,Afghanistan,Seed cotton,2012,11000.0
+4571,Afghanistan,Seed cotton,2013,11618.0
+4572,Afghanistan,Seed cotton,2014,12237.0
+4573,Afghanistan,Seed cotton,2015,11984.0
+4574,Afghanistan,Seed cotton,2016,11545.0
+4575,Afghanistan,Seed cotton,2017,11547.0
+4576,Afghanistan,Seed cotton,2018,14546.0
+4577,Afghanistan,Seed cotton,2019,14810.0
+4939,Afghanistan,Sugar beet,2010,129915.0
+4940,Afghanistan,Sugar beet,2011,130000.0
+4941,Afghanistan,Sugar beet,2012,120000.0
+4942,Afghanistan,Sugar beet,2013,150663.0
+4943,Afghanistan,Sugar beet,2014,115612.0
+4944,Afghanistan,Sugar beet,2015,81579.0
+4945,Afghanistan,Sugar beet,2016,78317.0
+4946,Afghanistan,Sugar beet,2017,104577.0
+4947,Afghanistan,Sugar beet,2018,273622.0
+4948,Afghanistan,Sugar beet,2019,150714.0
+5116,Afghanistan,Sugar cane,2010,298065.0
+5117,Afghanistan,Sugar cane,2011,300000.0
+5118,Afghanistan,Sugar cane,2012,250000.0
+5119,Afghanistan,Sugar cane,2013,280000.0
+5120,Afghanistan,Sugar cane,2014,233900.0
+5121,Afghanistan,Sugar cane,2015,144717.0
+5122,Afghanistan,Sugar cane,2016,130263.0
+5123,Afghanistan,Sugar cane,2017,294541.0
+5124,Afghanistan,Sugar cane,2018,143947.0
+5125,Afghanistan,Sugar cane,2019,221041.0
+5781,Afghanistan,Watermelons,2010,100000.0
+5782,Afghanistan,Watermelons,2011,90000.0
+5783,Afghanistan,Watermelons,2012,87080.0
+5784,Afghanistan,Watermelons,2013,100000.0
+5785,Afghanistan,Watermelons,2014,151958.0
+5786,Afghanistan,Watermelons,2015,83873.0
+5787,Afghanistan,Watermelons,2016,115473.0
+5788,Afghanistan,Watermelons,2017,120184.0
+5789,Afghanistan,Watermelons,2018,123960.0
+5790,Afghanistan,Watermelons,2019,175368.0
+5958,Afghanistan,Wheat,2010,19252.0
+5959,Afghanistan,Wheat,2011,15179.0
+5960,Afghanistan,Wheat,2012,20104.0
+5961,Afghanistan,Wheat,2013,20248.0
+5962,Afghanistan,Wheat,2014,20237.0
+5963,Afghanistan,Wheat,2015,21959.0
+5964,Afghanistan,Wheat,2016,19803.0
+5965,Afghanistan,Wheat,2017,20342.0
+5966,Afghanistan,Wheat,2018,22100.0
+5967,Afghanistan,Wheat,2019,20951.0
+108217,Bangladesh,Bananas,2010,151680.0
+108218,Bangladesh,Bananas,2011,151539.0
+108219,Bangladesh,Bananas,2012,151371.0
+108220,Bangladesh,Bananas,2013,160896.0
+108221,Bangladesh,Bananas,2014,166949.0
+108222,Bangladesh,Bananas,2015,166423.0
+108223,Bangladesh,Bananas,2016,168243.0
+108224,Bangladesh,Bananas,2017,165921.0
+108225,Bangladesh,Bananas,2018,164963.0
+108226,Bangladesh,Bananas,2019,170585.0
+108394,Bangladesh,Barley,2010,8530.0
+108395,Bangladesh,Barley,2011,8848.0
+108396,Bangladesh,Barley,2012,8864.0
+108397,Bangladesh,Barley,2013,8966.0
+108398,Bangladesh,Barley,2014,10726.0
+108399,Bangladesh,Barley,2015,8822.0
+108400,Bangladesh,Barley,2016,8904.0
+108401,Bangladesh,Barley,2017,8723.0
+108402,Bangladesh,Barley,2018,8106.0
+108403,Bangladesh,Barley,2019,8220.0
+109906,Bangladesh,Chick peas,2010,7951.0
+109907,Bangladesh,Chick peas,2011,8026.0
+109908,Bangladesh,Chick peas,2012,9091.0
+109909,Bangladesh,Chick peas,2013,9610.0
+109910,Bangladesh,Chick peas,2014,8723.0
+109911,Bangladesh,Chick peas,2015,9434.0
+109912,Bangladesh,Chick peas,2016,10492.0
+109913,Bangladesh,Chick peas,2017,10541.0
+109914,Bangladesh,Chick peas,2018,9875.0
+109915,Bangladesh,Chick peas,2019,11112.0
+110260,Bangladesh,Coconuts,2010,93488.0
+110261,Bangladesh,Coconuts,2011,75814.0
+110262,Bangladesh,Coconuts,2012,86512.0
+110263,Bangladesh,Coconuts,2013,84651.0
+110264,Bangladesh,Coconuts,2014,80808.0
+110265,Bangladesh,Coconuts,2015,89263.0
+110266,Bangladesh,Coconuts,2016,87039.0
+110267,Bangladesh,Coconuts,2017,95031.0
+110268,Bangladesh,Coconuts,2018,108599.0
+110269,Bangladesh,Coconuts,2019,118301.0
+111988,Bangladesh,Jute,2010,22180.0
+111989,Bangladesh,Jute,2011,21494.0
+111990,Bangladesh,Jute,2012,19095.0
+111991,Bangladesh,Jute,2013,20426.0
+111992,Bangladesh,Jute,2014,20264.0
+111993,Bangladesh,Jute,2015,20647.0
+111994,Bangladesh,Jute,2016,19832.0
+111995,Bangladesh,Jute,2017,20280.0
+111996,Bangladesh,Jute,2018,21284.0
+111997,Bangladesh,Jute,2019,21349.0
+112342,Bangladesh,Lentils,2010,9199.0
+112343,Bangladesh,Lentils,2011,9695.0
+112344,Bangladesh,Lentils,2012,9290.0
+112345,Bangladesh,Lentils,2013,10352.0
+112346,Bangladesh,Lentils,2014,12599.0
+112347,Bangladesh,Lentils,2015,11496.0
+112348,Bangladesh,Lentils,2016,10240.0
+112349,Bangladesh,Lentils,2017,10911.0
+112350,Bangladesh,Lentils,2018,11325.0
+112351,Bangladesh,Lentils,2019,12315.0
+112873,Bangladesh,Maize,2010,58378.0
+112874,Bangladesh,Maize,2011,61512.0
+112875,Bangladesh,Maize,2012,65838.0
+112876,Bangladesh,Maize,2013,65953.0
+112877,Bangladesh,Maize,2014,69151.0
+112878,Bangladesh,Maize,2015,69841.0
+112879,Bangladesh,Maize,2016,73008.0
+112880,Bangladesh,Maize,2017,77598.0
+112881,Bangladesh,Maize,2018,82104.0
+112882,Bangladesh,Maize,2019,80192.0
+113050,Bangladesh,"Mangoes, mangosteens, guavas",2010,65296.0
+113051,Bangladesh,"Mangoes, mangosteens, guavas",2011,80034.0
+113052,Bangladesh,"Mangoes, mangosteens, guavas",2012,76214.0
+113053,Bangladesh,"Mangoes, mangosteens, guavas",2013,80006.0
+113054,Bangladesh,"Mangoes, mangosteens, guavas",2014,80024.0
+113055,Bangladesh,"Mangoes, mangosteens, guavas",2015,104957.0
+113056,Bangladesh,"Mangoes, mangosteens, guavas",2016,332446.0
+113057,Bangladesh,"Mangoes, mangosteens, guavas",2017,327632.0
+113058,Bangladesh,"Mangoes, mangosteens, guavas",2018,287517.0
+113059,Bangladesh,"Mangoes, mangosteens, guavas",2019,108395.0
+113404,Bangladesh,Millet,2010,3343.0
+113405,Bangladesh,Millet,2011,4528.0
+113406,Bangladesh,Millet,2012,3166.0
+113407,Bangladesh,Millet,2013,6114.0
+113408,Bangladesh,Millet,2014,5858.0
+113409,Bangladesh,Millet,2015,9944.0
+113410,Bangladesh,Millet,2016,12137.0
+113411,Bangladesh,Millet,2017,11071.0
+113412,Bangladesh,Millet,2018,9943.0
+113413,Bangladesh,Millet,2019,9431.0
+113581,Bangladesh,Oilseeds nes,2010,10228.0
+113582,Bangladesh,Oilseeds nes,2011,10222.0
+113583,Bangladesh,Oilseeds nes,2012,9136.0
+113584,Bangladesh,Oilseeds nes,2013,11994.0
+113585,Bangladesh,Oilseeds nes,2014,14710.0
+113586,Bangladesh,Oilseeds nes,2015,16114.0
+113587,Bangladesh,Oilseeds nes,2016,13734.0
+113588,Bangladesh,Oilseeds nes,2017,13802.0
+113589,Bangladesh,Oilseeds nes,2018,16762.0
+113590,Bangladesh,Oilseeds nes,2019,15310.0
+113935,Bangladesh,Oranges,2010,81779.0
+113936,Bangladesh,Oranges,2011,86899.0
+113937,Bangladesh,Oranges,2012,85805.0
+113938,Bangladesh,Oranges,2013,90976.0
+113939,Bangladesh,Oranges,2014,75133.0
+113940,Bangladesh,Oranges,2015,89864.0
+113941,Bangladesh,Oranges,2016,74147.0
+113942,Bangladesh,Oranges,2017,78970.0
+113943,Bangladesh,Oranges,2018,66566.0
+113944,Bangladesh,Oranges,2019,49533.0
+114112,Bangladesh,Papayas,2010,56385.0
+114113,Bangladesh,Papayas,2011,56711.0
+114114,Bangladesh,Papayas,2012,56974.0
+114115,Bangladesh,Papayas,2013,59524.0
+114116,Bangladesh,Papayas,2014,59545.0
+114117,Bangladesh,Papayas,2015,52104.0
+114118,Bangladesh,Papayas,2016,48255.0
+114119,Bangladesh,Papayas,2017,45336.0
+114120,Bangladesh,Papayas,2018,54487.0
+114121,Bangladesh,Papayas,2019,72501.0
+114466,Bangladesh,Pigeon peas,2010,9519.0
+114467,Bangladesh,Pigeon peas,2011,9235.0
+114468,Bangladesh,Pigeon peas,2012,8865.0
+114469,Bangladesh,Pigeon peas,2013,10444.0
+114470,Bangladesh,Pigeon peas,2014,10236.0
+114471,Bangladesh,Pigeon peas,2015,10487.0
+114472,Bangladesh,Pigeon peas,2016,10520.0
+114473,Bangladesh,Pigeon peas,2017,10698.0
+114474,Bangladesh,Pigeon peas,2018,10022.0
+114475,Bangladesh,Pigeon peas,2019,10065.0
+114835,Bangladesh,Potatoes,2010,182299.0
+114836,Bangladesh,Potatoes,2011,180931.0
+114837,Bangladesh,Potatoes,2012,190627.0
+114838,Bangladesh,Potatoes,2013,193790.0
+114839,Bangladesh,Potatoes,2014,193845.0
+114840,Bangladesh,Potatoes,2015,196476.0
+114841,Bangladesh,Potatoes,2016,199250.0
+114842,Bangladesh,Potatoes,2017,204432.0
+114843,Bangladesh,Potatoes,2018,204106.0
+114844,Bangladesh,Potatoes,2019,206131.0
+115543,Bangladesh,"Rice, paddy",2010,43422.0
+115544,Bangladesh,"Rice, paddy",2011,43917.0
+115545,Bangladesh,"Rice, paddy",2012,44206.0
+115546,Bangladesh,"Rice, paddy",2013,45317.0
+115547,Bangladesh,"Rice, paddy",2014,45382.0
+115548,Bangladesh,"Rice, paddy",2015,45518.0
+115549,Bangladesh,"Rice, paddy",2016,45863.0
+115550,Bangladesh,"Rice, paddy",2017,46619.0
+115551,Bangladesh,"Rice, paddy",2018,47257.0
+115552,Bangladesh,"Rice, paddy",2019,47398.0
+115925,Bangladesh,Seed cotton,2010,30974.0
+115926,Bangladesh,Seed cotton,2011,24658.0
+115927,Bangladesh,Seed cotton,2012,32000.0
+115928,Bangladesh,Seed cotton,2013,32471.0
+115929,Bangladesh,Seed cotton,2014,33333.0
+115930,Bangladesh,Seed cotton,2015,32979.0
+115931,Bangladesh,Seed cotton,2016,34600.0
+115932,Bangladesh,Seed cotton,2017,35289.0
+115933,Bangladesh,Seed cotton,2018,34706.0
+115934,Bangladesh,Seed cotton,2019,33852.0
+116412,Bangladesh,Soybeans,2010,17090.0
+116413,Bangladesh,Soybeans,2011,15898.0
+116414,Bangladesh,Soybeans,2012,15814.0
+116415,Bangladesh,Soybeans,2013,14729.0
+116416,Bangladesh,Soybeans,2014,18397.0
+116417,Bangladesh,Soybeans,2015,19108.0
+116418,Bangladesh,Soybeans,2016,18327.0
+116419,Bangladesh,Soybeans,2017,15416.0
+116420,Bangladesh,Soybeans,2018,16604.0
+116421,Bangladesh,Soybeans,2019,17731.0
+116943,Bangladesh,Sugar cane,2010,382197.0
+116944,Bangladesh,Sugar cane,2011,402096.0
+116945,Bangladesh,Sugar cane,2012,427705.0
+116946,Bangladesh,Sugar cane,2013,405806.0
+116947,Bangladesh,Sugar cane,2014,420448.0
+116948,Bangladesh,Sugar cane,2015,425277.0
+116949,Bangladesh,Sugar cane,2016,427788.0
+116950,Bangladesh,Sugar cane,2017,419593.0
+116951,Bangladesh,Sugar cane,2018,403604.0
+116952,Bangladesh,Sugar cane,2019,387595.0
+117651,Bangladesh,Tea,2010,11486.0
+117652,Bangladesh,Tea,2011,10676.0
+117653,Bangladesh,Tea,2012,10799.0
+117654,Bangladesh,Tea,2013,11365.0
+117655,Bangladesh,Tea,2014,10643.0
+117656,Bangladesh,Tea,2015,10940.0
+117657,Bangladesh,Tea,2016,10739.0
+117658,Bangladesh,Tea,2017,15198.0
+117659,Bangladesh,Tea,2018,11657.0
+117660,Bangladesh,Tea,2019,16793.0
+117828,Bangladesh,"Tobacco, unmanufactured",2010,14447.0
+117829,Bangladesh,"Tobacco, unmanufactured",2011,16215.0
+117830,Bangladesh,"Tobacco, unmanufactured",2012,16780.0
+117831,Bangladesh,"Tobacco, unmanufactured",2013,16268.0
+117832,Bangladesh,"Tobacco, unmanufactured",2014,16939.0
+117833,Bangladesh,"Tobacco, unmanufactured",2015,18279.0
+117834,Bangladesh,"Tobacco, unmanufactured",2016,18856.0
+117835,Bangladesh,"Tobacco, unmanufactured",2017,20025.0
+117836,Bangladesh,"Tobacco, unmanufactured",2018,20965.0
+117837,Bangladesh,"Tobacco, unmanufactured",2019,21562.0
+118359,Bangladesh,Wheat,2010,23959.0
+118360,Bangladesh,Wheat,2011,26012.0
+118361,Bangladesh,Wheat,2012,27789.0
+118362,Bangladesh,Wheat,2013,30138.0
+118363,Bangladesh,Wheat,2014,30319.0
+118364,Bangladesh,Wheat,2015,30860.0
+118365,Bangladesh,Wheat,2016,30310.0
+118366,Bangladesh,Wheat,2017,31576.0
+118367,Bangladesh,Wheat,2018,31302.0
+118368,Bangladesh,Wheat,2019,30780.0
+189984,Brazil,Apples,2010,330327.0
+189985,Brazil,Apples,2011,351655.0
+189986,Brazil,Apples,2012,346301.0
+189987,Brazil,Apples,2013,321668.0
+189988,Brazil,Apples,2014,372187.0
+189989,Brazil,Apples,2015,352841.0
+189990,Brazil,Apples,2016,308465.0
+189991,Brazil,Apples,2017,392355.0
+189992,Brazil,Apples,2018,362035.0
+189993,Brazil,Apples,2019,377404.0
+190338,Brazil,Bananas,2010,142875.0
+190339,Brazil,Bananas,2011,145613.0
+190340,Brazil,Bananas,2012,143462.0
+190341,Brazil,Bananas,2013,142094.0
+190342,Brazil,Bananas,2014,145243.0
+190343,Brazil,Bananas,2015,143448.0
+190344,Brazil,Bananas,2016,142855.0
+190345,Brazil,Bananas,2017,142728.0
+190346,Brazil,Bananas,2018,146786.0
+190347,Brazil,Bananas,2019,147541.0
+190515,Brazil,Barley,2010,33115.0
+190516,Brazil,Barley,2011,34439.0
+190517,Brazil,Barley,2012,25793.0
+190518,Brazil,Barley,2013,37441.0
+190519,Brazil,Barley,2014,28120.0
+190520,Brazil,Barley,2015,21559.0
+190521,Brazil,Barley,2016,41699.0
+190522,Brazil,Barley,2017,24903.0
+190523,Brazil,Barley,2018,32591.0
+190524,Brazil,Barley,2019,35945.0
+192358,Brazil,Coconuts,2010,103364.0
+192359,Brazil,Coconuts,2011,108806.0
+192360,Brazil,Coconuts,2012,113739.0
+192361,Brazil,Coconuts,2013,112261.0
+192362,Brazil,Coconuts,2014,116506.0
+192363,Brazil,Coconuts,2015,110596.0
+192364,Brazil,Coconuts,2016,112613.0
+192365,Brazil,Coconuts,2017,105543.0
+192366,Brazil,Coconuts,2018,118064.0
+192367,Brazil,Coconuts,2019,124683.0
+192535,Brazil,"Coffee, green",2010,13461.0
+192536,Brazil,"Coffee, green",2011,12568.0
+192537,Brazil,"Coffee, green",2012,14327.0
+192538,Brazil,"Coffee, green",2013,14215.0
+192539,Brazil,"Coffee, green",2014,14036.0
+192540,Brazil,"Coffee, green",2015,13387.0
+192541,Brazil,"Coffee, green",2016,15148.0
+192542,Brazil,"Coffee, green",2017,14894.0
+192543,Brazil,"Coffee, green",2018,19060.0
+192544,Brazil,"Coffee, green",2019,16504.0
+193471,Brazil,Grapes,2010,166278.0
+193472,Brazil,Grapes,2011,182717.0
+193473,Brazil,Grapes,2012,184586.0
+193474,Brazil,Grapes,2013,181112.0
+193475,Brazil,Grapes,2014,184623.0
+193476,Brazil,Grapes,2015,191935.0
+193477,Brazil,Grapes,2016,144283.0
+193478,Brazil,Grapes,2017,230204.0
+193479,Brazil,Grapes,2018,213761.0
+193480,Brazil,Grapes,2019,199034.0
+193855,Brazil,Jute,2010,12918.0
+193856,Brazil,Jute,2011,12327.0
+193857,Brazil,Jute,2012,11864.0
+193858,Brazil,Jute,2013,12374.0
+193859,Brazil,Jute,2014,15241.0
+193860,Brazil,Jute,2015,14352.0
+193861,Brazil,Jute,2016,11603.0
+193862,Brazil,Jute,2017,12000.0
+193863,Brazil,Jute,2018,10000.0
+193864,Brazil,Jute,2019,10000.0
+194386,Brazil,Maize,2010,43667.0
+194387,Brazil,Maize,2011,42107.0
+194388,Brazil,Maize,2012,50057.0
+194389,Brazil,Maize,2013,52536.0
+194390,Brazil,Maize,2014,51761.0
+194391,Brazil,Maize,2015,55353.0
+194392,Brazil,Maize,2016,42877.0
+194393,Brazil,Maize,2017,56183.0
+194394,Brazil,Maize,2018,51076.0
+194395,Brazil,Maize,2019,57734.0
+194563,Brazil,"Mangoes, mangosteens, guavas",2010,158242.0
+194564,Brazil,"Mangoes, mangosteens, guavas",2011,172483.0
+194565,Brazil,"Mangoes, mangosteens, guavas",2012,171909.0
+194566,Brazil,"Mangoes, mangosteens, guavas",2013,177217.0
+194567,Brazil,"Mangoes, mangosteens, guavas",2014,173169.0
+194568,Brazil,"Mangoes, mangosteens, guavas",2015,171049.0
+194569,Brazil,"Mangoes, mangosteens, guavas",2016,185400.0
+194570,Brazil,"Mangoes, mangosteens, guavas",2017,185716.0
+194571,Brazil,"Mangoes, mangosteens, guavas",2018,217803.0
+194572,Brazil,"Mangoes, mangosteens, guavas",2019,223413.0
+195222,Brazil,Oats,2010,22776.0
+195223,Brazil,Oats,2011,21671.0
+195224,Brazil,Oats,2012,20650.0
+195225,Brazil,Oats,2013,22861.0
+195226,Brazil,Oats,2014,18122.0
+195227,Brazil,Oats,2015,17024.0
+195228,Brazil,Oats,2016,26435.0
+195229,Brazil,Oats,2017,16838.0
+195230,Brazil,Oats,2018,20539.0
+195231,Brazil,Oats,2019,20542.0
+195965,Brazil,Oranges,2010,233404.0
+195966,Brazil,Oranges,2011,242399.0
+195967,Brazil,Oranges,2012,246888.0
+195968,Brazil,Oranges,2013,249922.0
+195969,Brazil,Oranges,2014,248829.0
+195970,Brazil,Oranges,2015,249747.0
+195971,Brazil,Oranges,2016,264405.0
+195972,Brazil,Oranges,2017,276375.0
+195973,Brazil,Oranges,2018,285775.0
+195974,Brazil,Oranges,2019,289574.0
+196142,Brazil,Papayas,2010,543906.0
+196143,Brazil,Papayas,2011,521894.0
+196144,Brazil,Papayas,2012,484732.0
+196145,Brazil,Papayas,2013,494744.0
+196146,Brazil,Papayas,2014,500562.0
+196147,Brazil,Papayas,2015,484921.0
+196148,Brazil,Papayas,2016,368900.0
+196149,Brazil,Papayas,2017,396809.0
+196150,Brazil,Papayas,2018,388811.0
+196151,Brazil,Papayas,2019,421617.0
+197354,Brazil,Potatoes,2010,258859.0
+197355,Brazil,Potatoes,2011,262528.0
+197356,Brazil,Potatoes,2012,274457.0
+197357,Brazil,Potatoes,2013,277517.0
+197358,Brazil,Potatoes,2014,279410.0
+197359,Brazil,Potatoes,2015,293159.0
+197360,Brazil,Potatoes,2016,296622.0
+197361,Brazil,Potatoes,2017,309411.0
+197362,Brazil,Potatoes,2018,311762.0
+197363,Brazil,Potatoes,2019,316838.0
+198077,Brazil,"Rice, paddy",2010,41271.0
+198078,Brazil,"Rice, paddy",2011,48956.0
+198079,Brazil,"Rice, paddy",2012,47860.0
+198080,Brazil,"Rice, paddy",2013,50071.0
+198081,Brazil,"Rice, paddy",2014,52013.0
+198082,Brazil,"Rice, paddy",2015,57525.0
+198083,Brazil,"Rice, paddy",2016,54643.0
+198084,Brazil,"Rice, paddy",2017,62131.0
+198085,Brazil,"Rice, paddy",2018,63074.0
+198086,Brazil,"Rice, paddy",2019,60633.0
+198643,Brazil,Seed cotton,2010,35537.0
+198644,Brazil,Seed cotton,2011,36087.0
+198645,Brazil,Seed cotton,2012,35958.0
+198646,Brazil,Seed cotton,2013,36209.0
+198647,Brazil,Seed cotton,2014,37513.0
+198648,Brazil,Seed cotton,2015,38796.0
+198649,Brazil,Seed cotton,2016,34774.0
+198650,Brazil,Seed cotton,2017,41411.0
+198651,Brazil,Seed cotton,2018,43096.0
+198652,Brazil,Seed cotton,2019,42364.0
+199351,Brazil,Soybeans,2010,29475.0
+199352,Brazil,Soybeans,2011,31214.0
+199353,Brazil,Soybeans,2012,26366.0
+199354,Brazil,Soybeans,2013,29285.0
+199355,Brazil,Soybeans,2014,28659.0
+199356,Brazil,Soybeans,2015,30286.0
+199357,Brazil,Soybeans,2016,29049.0
+199358,Brazil,Soybeans,2017,33785.0
+199359,Brazil,Soybeans,2018,33904.0
+199360,Brazil,Soybeans,2019,31846.0
+199681,Brazil,Sugar cane,2010,790445.0
+199682,Brazil,Sugar cane,2011,764485.0
+199683,Brazil,Sugar cane,2012,742966.0
+199684,Brazil,Sugar cane,2013,753387.0
+199685,Brazil,Sugar cane,2014,706460.0
+199686,Brazil,Sugar cane,2015,742026.0
+199687,Brazil,Sugar cane,2016,751763.0
+199688,Brazil,Sugar cane,2017,744559.0
+199689,Brazil,Sugar cane,2018,746057.0
+199690,Brazil,Sugar cane,2019,746833.0
+200368,Brazil,Tea,2010,17832.0
+200369,Brazil,Tea,2011,15364.0
+200370,Brazil,Tea,2012,17255.0
+200371,Brazil,Tea,2013,20511.0
+200372,Brazil,Tea,2014,17287.0
+200373,Brazil,Tea,2015,29442.0
+200374,Brazil,Tea,2016,24811.0
+200375,Brazil,Tea,2017,24811.0
+200376,Brazil,Tea,2018,22891.0
+200377,Brazil,Tea,2019,22619.0
+200545,Brazil,"Tobacco, unmanufactured",2010,17521.0
+200546,Brazil,"Tobacco, unmanufactured",2011,20945.0
+200547,Brazil,"Tobacco, unmanufactured",2012,19759.0
+200548,Brazil,"Tobacco, unmanufactured",2013,20991.0
+200549,Brazil,"Tobacco, unmanufactured",2014,20739.0
+200550,Brazil,"Tobacco, unmanufactured",2015,21370.0
+200551,Brazil,"Tobacco, unmanufactured",2016,17994.0
+200552,Brazil,"Tobacco, unmanufactured",2017,22128.0
+200553,Brazil,"Tobacco, unmanufactured",2018,21230.0
+200554,Brazil,"Tobacco, unmanufactured",2019,21275.0
+201524,Brazil,Watermelons,2010,216221.0
+201525,Brazil,Watermelons,2011,224997.0
+201526,Brazil,Watermelons,2012,219797.0
+201527,Brazil,Watermelons,2013,235109.0
+201528,Brazil,Watermelons,2014,230087.0
+201529,Brazil,Watermelons,2015,220868.0
+201530,Brazil,Watermelons,2016,231194.0
+201531,Brazil,Watermelons,2017,224119.0
+201532,Brazil,Watermelons,2018,220043.0
+201533,Brazil,Watermelons,2019,231314.0
+201701,Brazil,Wheat,2010,28288.0
+201702,Brazil,Wheat,2011,26602.0
+201703,Brazil,Wheat,2012,23100.0
+201704,Brazil,Wheat,2013,27491.0
+201705,Brazil,Wheat,2014,22088.0
+201706,Brazil,Wheat,2015,22278.0
+201707,Brazil,Wheat,2016,31551.0
+201708,Brazil,Wheat,2017,22790.0
+201709,Brazil,Wheat,2018,26292.0
+201710,Brazil,Wheat,2019,26712.0
+303781,China,Apples,2010,155432.0
+303782,China,Apples,2011,165266.0
+303783,China,Apples,2012,172495.0
+303784,China,Apples,2013,174636.0
+303785,China,Apples,2014,180097.0
+303786,China,Apples,2015,167064.0
+303787,China,Apples,2016,190278.0
+303788,China,Apples,2017,212575.0
+303789,China,Apples,2018,202371.0
+303790,China,Apples,2019,207851.0
+303958,China,Apricots,2010,43493.0
+303959,China,Apricots,2011,42788.0
+303960,China,Apricots,2012,39311.0
+303961,China,Apricots,2013,39082.0
+303962,China,Apricots,2014,40237.0
+303963,China,Apricots,2015,39055.0
+303964,China,Apricots,2016,31397.0
+303965,China,Apricots,2017,31091.0
+303966,China,Apricots,2018,31818.0
+303967,China,Apricots,2019,28000.0
+304781,China,Bananas,2010,265611.0
+304782,China,Bananas,2011,268115.0
+304783,China,Bananas,2012,290773.0
+304784,China,Bananas,2013,305314.0
+304785,China,Bananas,2014,298349.0
+304786,China,Bananas,2015,257591.0
+304787,China,Bananas,2016,291916.0
+304788,China,Bananas,2017,314197.0
+304789,China,Bananas,2018,333324.0
+304790,China,Bananas,2019,334286.0
+304958,China,Barley,2010,34023.0
+304959,China,Barley,2011,31998.0
+304960,China,Barley,2012,33187.0
+304961,China,Barley,2013,36498.0
+304962,China,Barley,2014,38652.0
+304963,China,Barley,2015,41827.0
+304964,China,Barley,2016,37532.0
+304965,China,Barley,2017,32886.0
+304966,China,Barley,2018,36441.0
+304967,China,Barley,2019,34615.0
+307734,China,Chick peas,2010,28333.0
+307735,China,Chick peas,2011,40000.0
+307736,China,Chick peas,2012,39394.0
+307737,China,Chick peas,2013,37736.0
+307738,China,Chick peas,2014,37594.0
+307739,China,Chick peas,2015,52000.0
+307740,China,Chick peas,2016,51769.0
+307741,China,Chick peas,2017,55333.0
+307742,China,Chick peas,2018,53787.0
+307743,China,Chick peas,2019,52334.0
+308576,China,Coconuts,2010,86762.0
+308577,China,Coconuts,2011,84120.0
+308578,China,Coconuts,2012,85006.0
+308579,China,Coconuts,2013,86260.0
+308580,China,Coconuts,2014,127768.0
+308581,China,Coconuts,2015,116677.0
+308582,China,Coconuts,2016,117690.0
+308583,China,Coconuts,2017,93484.0
+308584,China,Coconuts,2018,108122.0
+308585,China,Coconuts,2019,106161.0
+308753,China,"Coffee, green",2010,19833.0
+308754,China,"Coffee, green",2011,22127.0
+308755,China,"Coffee, green",2012,24356.0
+308756,China,"Coffee, green",2013,23554.0
+308757,China,"Coffee, green",2014,25919.0
+308758,China,"Coffee, green",2015,27513.0
+308759,China,"Coffee, green",2016,27650.0
+308760,China,"Coffee, green",2017,28524.0
+308761,China,"Coffee, green",2018,29405.0
+308762,China,"Coffee, green",2019,30298.0
+311261,China,Grapes,2010,159559.0
+311262,China,Grapes,2011,156943.0
+311263,China,Grapes,2012,164101.0
+311264,China,Grapes,2013,169086.0
+311265,China,Grapes,2014,153398.0
+311266,China,Grapes,2015,165177.0
+311267,China,Grapes,2016,175073.0
+311268,China,Grapes,2017,185733.0
+311269,China,Grapes,2018,189104.0
+311270,China,Grapes,2019,192680.0
+311591,China,"Hazelnuts, with shell",2010,18318.0
+311592,China,"Hazelnuts, with shell",2011,20000.0
+311593,China,"Hazelnuts, with shell",2012,20000.0
+311594,China,"Hazelnuts, with shell",2013,20000.0
+311595,China,"Hazelnuts, with shell",2014,19850.0
+311596,China,"Hazelnuts, with shell",2015,20226.0
+311597,China,"Hazelnuts, with shell",2016,20410.0
+311598,China,"Hazelnuts, with shell",2017,20675.0
+311599,China,"Hazelnuts, with shell",2018,20942.0
+311600,China,"Hazelnuts, with shell",2019,21208.0
+312273,China,Jute,2010,30075.0
+312274,China,Jute,2011,32198.0
+312275,China,Jute,2012,32059.0
+312276,China,Jute,2013,29657.0
+312277,China,Jute,2014,32178.0
+312278,China,Jute,2015,32674.0
+312279,China,Jute,2016,35948.0
+312280,China,Jute,2017,37500.0
+312281,China,Jute,2018,37157.0
+312282,China,Jute,2019,37502.0
+312948,China,Lentils,2010,20000.0
+312949,China,Lentils,2011,25000.0
+312950,China,Lentils,2012,21642.0
+312951,China,Lentils,2013,20000.0
+312952,China,Lentils,2014,20833.0
+312953,China,Lentils,2015,23833.0
+312954,China,Lentils,2016,23724.0
+312955,China,Lentils,2017,25360.0
+312956,China,Lentils,2018,25412.0
+312957,China,Lentils,2019,24922.0
+313456,China,Maize,2010,54598.0
+313457,China,Maize,2011,57481.0
+313458,China,Maize,2012,58699.0
+313459,China,Maize,2013,60161.0
+313460,China,Maize,2014,58091.0
+313461,China,Maize,2015,58929.0
+313462,China,Maize,2016,59667.0
+313463,China,Maize,2017,61103.0
+313464,China,Maize,2018,61042.0
+313465,China,Maize,2019,63171.0
+313598,China,"Maize, green",2010,97526.0
+313599,China,"Maize, green",2011,97801.0
+313600,China,"Maize, green",2012,94747.0
+313601,China,"Maize, green",2013,90918.0
+313602,China,"Maize, green",2014,92877.0
+313603,China,"Maize, green",2015,94808.0
+313604,China,"Maize, green",2016,93976.0
+313605,China,"Maize, green",2017,94471.0
+313606,China,"Maize, green",2018,94966.0
+313607,China,"Maize, green",2019,95466.0
+313775,China,"Mangoes, mangosteens, guavas",2010,103475.0
+313776,China,"Mangoes, mangosteens, guavas",2011,107483.0
+313777,China,"Mangoes, mangosteens, guavas",2012,110815.0
+313778,China,"Mangoes, mangosteens, guavas",2013,115439.0
+313779,China,"Mangoes, mangosteens, guavas",2014,116789.0
+313780,China,"Mangoes, mangosteens, guavas",2015,120083.0
+313781,China,"Mangoes, mangosteens, guavas",2016,120263.0
+313782,China,"Mangoes, mangosteens, guavas",2017,124792.0
+313783,China,"Mangoes, mangosteens, guavas",2018,137194.0
+313784,China,"Mangoes, mangosteens, guavas",2019,131754.0
+314273,China,Millet,2010,19450.0
+314274,China,Millet,2011,21023.0
+314275,China,Millet,2012,24393.0
+314276,China,Millet,2013,24392.0
+314277,China,Millet,2014,30367.0
+314278,China,Millet,2015,23419.0
+314279,China,Millet,2016,25509.0
+314280,China,Millet,2017,29588.0
+314281,China,Millet,2018,30088.0
+314282,China,Millet,2019,25553.0
+314930,China,Oats,2010,29494.0
+314931,China,Oats,2011,43529.0
+314932,China,Oats,2012,31625.0
+314933,China,Oats,2013,34286.0
+314934,China,Oats,2014,31250.0
+314935,China,Oats,2015,33222.0
+314936,China,Oats,2016,34422.0
+314937,China,Oats,2017,35214.0
+314938,China,Oats,2018,36074.0
+314939,China,Oats,2019,36814.0
+315200,China,Oilseeds nes,2010,11489.0
+315201,China,Oilseeds nes,2011,13211.0
+315202,China,Oilseeds nes,2012,12755.0
+315203,China,Oilseeds nes,2013,13086.0
+315204,China,Oilseeds nes,2014,12781.0
+315205,China,Oilseeds nes,2015,13707.0
+315206,China,Oilseeds nes,2016,14307.0
+315207,China,Oilseeds nes,2017,13797.0
+315208,China,Oilseeds nes,2018,15435.0
+315209,China,Oilseeds nes,2019,14039.0
+315908,China,Oranges,2010,127185.0
+315909,China,Oranges,2011,146449.0
+315910,China,Oranges,2012,155235.0
+315911,China,Oranges,2013,152185.0
+315912,China,Oranges,2014,127829.0
+315913,China,Oranges,2015,162573.0
+315914,China,Oranges,2016,163620.0
+315915,China,Oranges,2017,171241.0
+315916,China,Oranges,2018,179609.0
+315917,China,Oranges,2019,186719.0
+316085,China,Papayas,2010,227380.0
+316086,China,Papayas,2011,250900.0
+316087,China,Papayas,2012,228644.0
+316088,China,Papayas,2013,214635.0
+316089,China,Papayas,2014,206339.0
+316090,China,Papayas,2015,175274.0
+316091,China,Papayas,2016,146092.0
+316092,China,Papayas,2017,152546.0
+316093,China,Papayas,2018,139689.0
+316094,China,Papayas,2019,124413.0
+317958,China,Potatoes,2010,156686.0
+317959,China,Potatoes,2011,162826.0
+317960,China,Potatoes,2012,167712.0
+317961,China,Potatoes,2013,170910.0
+317962,China,Potatoes,2014,171416.0
+317963,China,Potatoes,2015,173123.0
+317964,China,Potatoes,2016,176866.0
+317965,China,Potatoes,2017,182085.0
+317966,China,Potatoes,2018,189722.0
+317967,China,Potatoes,2019,186950.0
+318941,China,"Rice, paddy",2010,65481.0
+318942,China,"Rice, paddy",2011,66862.0
+318943,China,"Rice, paddy",2012,67747.0
+318944,China,"Rice, paddy",2013,67099.0
+318945,China,"Rice, paddy",2014,68095.0
+318946,China,"Rice, paddy",2015,68863.0
+318947,China,"Rice, paddy",2016,68563.0
+318948,China,"Rice, paddy",2017,69122.0
+318949,China,"Rice, paddy",2018,70280.0
+318950,China,"Rice, paddy",2019,70562.0
+319830,China,Seed cotton,2010,36935.0
+319831,China,Seed cotton,2011,39237.0
+319832,China,Seed cotton,2012,43770.0
+319833,China,Seed cotton,2013,43561.0
+319834,China,Seed cotton,2014,43898.0
+319835,China,Seed cotton,2015,44679.0
+319836,China,Seed cotton,2016,47478.0
+319837,China,Seed cotton,2017,35357.0
+319838,China,Seed cotton,2018,55131.0
+319839,China,Seed cotton,2019,48812.0
+320538,China,Soybeans,2010,17712.0
+320539,China,Soybeans,2011,18362.0
+320540,China,Soybeans,2012,18144.0
+320541,China,Soybeans,2013,17600.0
+320542,China,Soybeans,2014,17874.0
+320543,China,Soybeans,2015,18113.0
+320544,China,Soybeans,2016,18030.0
+320545,China,Soybeans,2017,18534.0
+320546,China,Soybeans,2018,18978.0
+320547,China,Soybeans,2019,18666.0
+321401,China,Sugar beet,2010,424989.0
+321402,China,Sugar beet,2011,473620.0
+321403,China,Sugar beet,2012,497939.0
+321404,China,Sugar beet,2013,509228.0
+321405,China,Sugar beet,2014,576481.0
+321406,China,Sugar beet,2015,530000.0
+321407,China,Sugar beet,2016,554870.0
+321408,China,Sugar beet,2017,538419.0
+321409,China,Sugar beet,2018,521751.0
+321410,China,Sugar beet,2019,549475.0
+321578,China,Sugar cane,2010,657396.0
+321579,China,Sugar cane,2011,665296.0
+321580,China,Sugar cane,2012,685904.0
+321581,China,Sugar cane,2013,705420.0
+321582,China,Sugar cane,2014,713381.0
+321583,China,Sugar cane,2015,725220.0
+321584,China,Sugar cane,2016,735232.0
+321585,China,Sugar cane,2017,760408.0
+321586,China,Sugar cane,2018,768347.0
+321587,China,Sugar cane,2019,772945.0
+322616,China,Tea,2010,10187.0
+322617,China,Tea,2011,9889.0
+322618,China,Tea,2012,10321.0
+322619,China,Tea,2013,10375.0
+322620,China,Tea,2014,10575.0
+322621,China,Tea,2015,10771.0
+322622,China,Tea,2016,9779.0
+322623,China,Tea,2017,8649.0
+322624,China,Tea,2018,8758.0
+322625,China,Tea,2019,8765.0
+322793,China,"Tobacco, unmanufactured",2010,22337.0
+322794,China,"Tobacco, unmanufactured",2011,21604.0
+322795,China,"Tobacco, unmanufactured",2012,21338.0
+322796,China,"Tobacco, unmanufactured",2013,20791.0
+322797,China,"Tobacco, unmanufactured",2014,20475.0
+322798,China,"Tobacco, unmanufactured",2015,22366.0
+322799,China,"Tobacco, unmanufactured",2016,22324.0
+322800,China,"Tobacco, unmanufactured",2017,22118.0
+322801,China,"Tobacco, unmanufactured",2018,22337.0
+322802,China,"Tobacco, unmanufactured",2019,22575.0
+324085,China,Watermelons,2010,367573.0
+324086,China,Watermelons,2011,372448.0
+324087,China,Watermelons,2012,384797.0
+324088,China,Watermelons,2013,387667.0
+324089,China,Watermelons,2014,393652.0
+324090,China,Watermelons,2015,403362.0
+324091,China,Watermelons,2016,409022.0
+324092,China,Watermelons,2017,414066.0
+324093,China,Watermelons,2018,404036.0
+324094,China,Watermelons,2019,413577.0
+324262,China,Wheat,2010,47484.0
+324263,China,Wheat,2011,48374.0
+324264,China,Wheat,2012,49868.0
+324265,China,Wheat,2013,50553.0
+324266,China,Wheat,2014,52433.0
+324267,China,Wheat,2015,53923.0
+324268,China,Wheat,2016,53961.0
+324269,China,Wheat,2017,54838.0
+324270,China,Wheat,2018,54163.0
+324271,China,Wheat,2019,56294.0
+367427,Colombia,Apples,2010,105000.0
+367428,Colombia,Apples,2011,100744.0
+367429,Colombia,Apples,2012,96903.0
+367430,Colombia,Apples,2013,103537.0
+367431,Colombia,Apples,2014,112350.0
+367432,Colombia,Apples,2015,111378.0
+367433,Colombia,Apples,2016,106056.0
+367434,Colombia,Apples,2017,53772.0
+367435,Colombia,Apples,2018,67149.0
+367436,Colombia,Apples,2019,82431.0
+367930,Colombia,Bananas,2010,258631.0
+367931,Colombia,Bananas,2011,260023.0
+367932,Colombia,Bananas,2012,276412.0
+367933,Colombia,Bananas,2013,300043.0
+367934,Colombia,Bananas,2014,270737.0
+367935,Colombia,Bananas,2015,299347.0
+367936,Colombia,Bananas,2016,292764.0
+367937,Colombia,Bananas,2017,253038.0
+367938,Colombia,Bananas,2018,261577.0
+367939,Colombia,Bananas,2019,275963.0
+368107,Colombia,Barley,2010,18404.0
+368108,Colombia,Barley,2011,17158.0
+368109,Colombia,Barley,2012,20399.0
+368110,Colombia,Barley,2013,21416.0
+368111,Colombia,Barley,2014,22444.0
+368112,Colombia,Barley,2015,19963.0
+368113,Colombia,Barley,2016,23863.0
+368114,Colombia,Barley,2017,18634.0
+368115,Colombia,Barley,2018,22675.0
+368116,Colombia,Barley,2019,27078.0
+369450,Colombia,Chick peas,2012,7941.0
+369451,Colombia,Chick peas,2013,7909.0
+369452,Colombia,Chick peas,2014,13636.0
+369453,Colombia,Chick peas,2015,15584.0
+369454,Colombia,Chick peas,2016,16122.0
+369455,Colombia,Chick peas,2017,11521.0
+369456,Colombia,Chick peas,2018,11797.0
+369457,Colombia,Chick peas,2019,10649.0
+369955,Colombia,Coconuts,2010,71997.0
+369956,Colombia,Coconuts,2011,71411.0
+369957,Colombia,Coconuts,2012,68581.0
+369958,Colombia,Coconuts,2013,70934.0
+369959,Colombia,Coconuts,2014,73601.0
+369960,Colombia,Coconuts,2015,73887.0
+369961,Colombia,Coconuts,2016,75237.0
+369962,Colombia,Coconuts,2017,69795.0
+369963,Colombia,Coconuts,2018,66852.0
+369964,Colombia,Coconuts,2019,68565.0
+370132,Colombia,"Coffee, green",2010,6881.0
+370133,Colombia,"Coffee, green",2011,6472.0
+370134,Colombia,"Coffee, green",2012,6638.0
+370135,Colombia,"Coffee, green",2013,8464.0
+370136,Colombia,"Coffee, green",2014,9156.0
+370137,Colombia,"Coffee, green",2015,10332.0
+370138,Colombia,"Coffee, green",2016,10512.0
+370139,Colombia,"Coffee, green",2017,9421.0
+370140,Colombia,"Coffee, green",2018,9274.0
+370141,Colombia,"Coffee, green",2019,10368.0
+371522,Colombia,Grapes,2010,145165.0
+371523,Colombia,Grapes,2011,107204.0
+371524,Colombia,Grapes,2012,111945.0
+371525,Colombia,Grapes,2013,113713.0
+371526,Colombia,Grapes,2014,112731.0
+371527,Colombia,Grapes,2015,112696.0
+371528,Colombia,Grapes,2016,120862.0
+371529,Colombia,Grapes,2017,117712.0
+371530,Colombia,Grapes,2018,155498.0
+371531,Colombia,Grapes,2019,169376.0
+372015,Colombia,Lentils,2010,3000.0
+372016,Colombia,Lentils,2011,3013.0
+372017,Colombia,Lentils,2012,3125.0
+372018,Colombia,Lentils,2013,3125.0
+372019,Colombia,Lentils,2014,3001.0
+372020,Colombia,Lentils,2015,2918.0
+372021,Colombia,Lentils,2016,2873.0
+372022,Colombia,Lentils,2017,2834.0
+372023,Colombia,Lentils,2018,2805.0
+372024,Colombia,Lentils,2019,2785.0
+372369,Colombia,Maize,2010,27226.0
+372370,Colombia,Maize,2011,28591.0
+372371,Colombia,Maize,2012,29052.0
+372372,Colombia,Maize,2013,28246.0
+372373,Colombia,Maize,2014,35651.0
+372374,Colombia,Maize,2015,36714.0
+372375,Colombia,Maize,2016,30737.0
+372376,Colombia,Maize,2017,35005.0
+372377,Colombia,Maize,2018,34988.0
+372378,Colombia,Maize,2019,37418.0
+372546,Colombia,"Mangoes, mangosteens, guavas",2010,107617.0
+372547,Colombia,"Mangoes, mangosteens, guavas",2011,118985.0
+372548,Colombia,"Mangoes, mangosteens, guavas",2012,106832.0
+372549,Colombia,"Mangoes, mangosteens, guavas",2013,109555.0
+372550,Colombia,"Mangoes, mangosteens, guavas",2014,112438.0
+372551,Colombia,"Mangoes, mangosteens, guavas",2015,117078.0
+372552,Colombia,"Mangoes, mangosteens, guavas",2016,112890.0
+372553,Colombia,"Mangoes, mangosteens, guavas",2017,102454.0
+372554,Colombia,"Mangoes, mangosteens, guavas",2018,107473.0
+372555,Colombia,"Mangoes, mangosteens, guavas",2019,117469.0
+373512,Colombia,Oranges,2010,155624.0
+373513,Colombia,Oranges,2011,159625.0
+373514,Colombia,Oranges,2012,159897.0
+373515,Colombia,Oranges,2013,156660.0
+373516,Colombia,Oranges,2014,149291.0
+373517,Colombia,Oranges,2015,155302.0
+373518,Colombia,Oranges,2016,151570.0
+373519,Colombia,Oranges,2017,162286.0
+373520,Colombia,Oranges,2018,169328.0
+373521,Colombia,Oranges,2019,170967.0
+373689,Colombia,Papayas,2010,319846.0
+373690,Colombia,Papayas,2011,308213.0
+373691,Colombia,Papayas,2012,339104.0
+373692,Colombia,Papayas,2013,345961.0
+373693,Colombia,Papayas,2014,322178.0
+373694,Colombia,Papayas,2015,330495.0
+373695,Colombia,Papayas,2016,296505.0
+373696,Colombia,Papayas,2017,311634.0
+373697,Colombia,Papayas,2018,241573.0
+373698,Colombia,Papayas,2019,211291.0
+374384,Colombia,Pigeon peas,2010,11338.0
+374385,Colombia,Pigeon peas,2011,11374.0
+374386,Colombia,Pigeon peas,2012,11398.0
+374387,Colombia,Pigeon peas,2013,9866.0
+374388,Colombia,Pigeon peas,2014,8541.0
+374389,Colombia,Pigeon peas,2015,7951.0
+374390,Colombia,Pigeon peas,2016,7847.0
+374391,Colombia,Pigeon peas,2017,9752.0
+374392,Colombia,Pigeon peas,2018,10221.0
+374393,Colombia,Pigeon peas,2019,9961.0
+375024,Colombia,Potatoes,2010,172462.0
+375025,Colombia,Potatoes,2011,173390.0
+375026,Colombia,Potatoes,2012,181661.0
+375027,Colombia,Potatoes,2013,185618.0
+375028,Colombia,Potatoes,2014,200521.0
+375029,Colombia,Potatoes,2015,194786.0
+375030,Colombia,Potatoes,2016,188924.0
+375031,Colombia,Potatoes,2017,227565.0
+375032,Colombia,Potatoes,2018,223756.0
+375033,Colombia,Potatoes,2019,233870.0
+375489,Colombia,"Rice, paddy",2010,41223.0
+375490,Colombia,"Rice, paddy",2011,39589.0
+375491,Colombia,"Rice, paddy",2012,48066.0
+375492,Colombia,"Rice, paddy",2013,38371.0
+375493,Colombia,"Rice, paddy",2014,47836.0
+375494,Colombia,"Rice, paddy",2015,48709.0
+375495,Colombia,"Rice, paddy",2016,53630.0
+375496,Colombia,"Rice, paddy",2017,55135.0
+375497,Colombia,"Rice, paddy",2018,55915.0
+375498,Colombia,"Rice, paddy",2019,56712.0
+375946,Colombia,Seed cotton,2010,20109.0
+375947,Colombia,Seed cotton,2011,21762.0
+375948,Colombia,Seed cotton,2012,21134.0
+375949,Colombia,Seed cotton,2013,20922.0
+375950,Colombia,Seed cotton,2014,24913.0
+375951,Colombia,Seed cotton,2015,33474.0
+375952,Colombia,Seed cotton,2016,38504.0
+375953,Colombia,Seed cotton,2017,21320.0
+375954,Colombia,Seed cotton,2018,25412.0
+375955,Colombia,Seed cotton,2019,32820.0
+376477,Colombia,Soybeans,2010,17152.0
+376478,Colombia,Soybeans,2011,21766.0
+376479,Colombia,Soybeans,2012,26639.0
+376480,Colombia,Soybeans,2013,27250.0
+376481,Colombia,Soybeans,2014,25095.0
+376482,Colombia,Soybeans,2015,25803.0
+376483,Colombia,Soybeans,2016,27665.0
+376484,Colombia,Soybeans,2017,29329.0
+376485,Colombia,Soybeans,2018,26659.0
+376486,Colombia,Soybeans,2019,28128.0
+377086,Colombia,Sugar beet,2010,195785.0
+377087,Colombia,Sugar beet,2011,258056.0
+377088,Colombia,Sugar beet,2012,251833.0
+377089,Colombia,Sugar beet,2013,242160.0
+377090,Colombia,Sugar beet,2014,241875.0
+377091,Colombia,Sugar beet,2015,254461.0
+377092,Colombia,Sugar beet,2016,263564.0
+377093,Colombia,Sugar beet,2017,270026.0
+377094,Colombia,Sugar beet,2018,276604.0
+377095,Colombia,Sugar beet,2019,283069.0
+377263,Colombia,Sugar cane,2010,933603.0
+377264,Colombia,Sugar cane,2011,913435.0
+377265,Colombia,Sugar cane,2012,840713.0
+377266,Colombia,Sugar cane,2013,858592.0
+377267,Colombia,Sugar cane,2014,951236.0
+377268,Colombia,Sugar cane,2015,882601.0
+377269,Colombia,Sugar cane,2016,863992.0
+377270,Colombia,Sugar cane,2017,542635.0
+377271,Colombia,Sugar cane,2018,735078.0
+377272,Colombia,Sugar cane,2019,713503.0
+377675,Colombia,Tea,2010,24364.0
+377676,Colombia,Tea,2011,24364.0
+377677,Colombia,Tea,2012,23929.0
+377678,Colombia,Tea,2013,24038.0
+377679,Colombia,Tea,2014,24000.0
+377680,Colombia,Tea,2015,24032.0
+377681,Colombia,Tea,2016,24032.0
+377682,Colombia,Tea,2017,24000.0
+377683,Colombia,Tea,2018,24154.0
+377684,Colombia,Tea,2019,24091.0
+377852,Colombia,"Tobacco, unmanufactured",2010,10540.0
+377853,Colombia,"Tobacco, unmanufactured",2011,17459.0
+377854,Colombia,"Tobacco, unmanufactured",2012,17719.0
+377855,Colombia,"Tobacco, unmanufactured",2013,18706.0
+377856,Colombia,"Tobacco, unmanufactured",2014,18498.0
+377857,Colombia,"Tobacco, unmanufactured",2015,17294.0
+377858,Colombia,"Tobacco, unmanufactured",2016,17294.0
+377859,Colombia,"Tobacco, unmanufactured",2017,19570.0
+377860,Colombia,"Tobacco, unmanufactured",2018,18347.0
+377861,Colombia,"Tobacco, unmanufactured",2019,19154.0
+378507,Colombia,Watermelons,2010,134253.0
+378508,Colombia,Watermelons,2011,143595.0
+378509,Colombia,Watermelons,2012,138148.0
+378510,Colombia,Watermelons,2013,156773.0
+378511,Colombia,Watermelons,2014,193261.0
+378512,Colombia,Watermelons,2015,183808.0
+378513,Colombia,Watermelons,2016,172826.0
+378514,Colombia,Watermelons,2017,175334.0
+378515,Colombia,Watermelons,2018,173933.0
+378516,Colombia,Watermelons,2019,177573.0
+378684,Colombia,Wheat,2010,17697.0
+378685,Colombia,Wheat,2011,15964.0
+378686,Colombia,Wheat,2012,15196.0
+378687,Colombia,Wheat,2013,16939.0
+378688,Colombia,Wheat,2014,14786.0
+378689,Colombia,Wheat,2015,18540.0
+378690,Colombia,Wheat,2016,15941.0
+378691,Colombia,Wheat,2017,20944.0
+378692,Colombia,Wheat,2018,18887.0
+378693,Colombia,Wheat,2019,20798.0
+596817,France,Apples,2010,428099.0
+596818,France,Apples,2011,443711.0
+596819,France,Apples,2012,337432.0
+596820,France,Apples,2013,449062.0
+596821,France,Apples,2014,368258.0
+596822,France,Apples,2015,396397.0
+596823,France,Apples,2016,363534.0
+596824,France,Apples,2017,337106.0
+596825,France,Apples,2018,344351.0
+596826,France,Apples,2019,348124.0
+596994,France,Apricots,2010,103799.0
+596995,France,Apricots,2011,112027.0
+596996,France,Apricots,2012,137509.0
+596997,France,Apricots,2013,104433.0
+596998,France,Apricots,2014,143983.0
+596999,France,Apricots,2015,132658.0
+597000,France,Apricots,2016,495416.0
+597001,France,Apricots,2017,536966.0
+597002,France,Apricots,2018,92005.0
+597003,France,Apricots,2019,109772.0
+597530,France,Bananas,2018,254333.0
+597531,France,Bananas,2019,265900.0
+597642,France,Barley,2010,63852.0
+597643,France,Barley,2011,56809.0
+597644,France,Barley,2012,67386.0
+597645,France,Barley,2013,63079.0
+597646,France,Barley,2014,66475.0
+597647,France,Barley,2015,71237.0
+597648,France,Barley,2016,54440.0
+597649,France,Barley,2017,63452.0
+597650,France,Barley,2018,62460.0
+597651,France,Barley,2019,69774.0
+600011,France,Coconuts,2010,23333.0
+600012,France,Coconuts,2011,23668.0
+600013,France,Coconuts,2012,23660.0
+600014,France,Coconuts,2013,23537.0
+600015,France,Coconuts,2014,23916.0
+600016,France,Coconuts,2015,24511.0
+600017,France,Coconuts,2016,42577.0
+600018,France,Coconuts,2017,41321.0
+602004,France,Grapes,2010,76388.0
+602005,France,Grapes,2011,86905.0
+602006,France,Grapes,2012,70775.0
+602007,France,Grapes,2013,72853.0
+602008,France,Grapes,2014,81930.0
+602009,France,Grapes,2015,83212.0
+602010,France,Grapes,2016,80221.0
+602011,France,Grapes,2017,66773.0
+602012,France,Grapes,2018,83502.0
+602013,France,Grapes,2019,72665.0
+602157,France,"Hazelnuts, with shell",2010,24179.0
+602158,France,"Hazelnuts, with shell",2011,17891.0
+602159,France,"Hazelnuts, with shell",2012,23349.0
+602160,France,"Hazelnuts, with shell",2013,17309.0
+602161,France,"Hazelnuts, with shell",2014,22128.0
+602162,France,"Hazelnuts, with shell",2015,17295.0
+602163,France,"Hazelnuts, with shell",2016,21537.0
+602164,France,"Hazelnuts, with shell",2017,17829.0
+602165,France,"Hazelnuts, with shell",2018,23443.0
+602166,France,"Hazelnuts, with shell",2019,22466.0
+603339,France,Lentils,2010,15042.0
+603340,France,Lentils,2011,16810.0
+603341,France,Lentils,2012,16724.0
+603342,France,Lentils,2013,16173.0
+603343,France,Lentils,2014,13621.0
+603344,France,Lentils,2015,13500.0
+603345,France,Lentils,2016,13597.0
+603346,France,Lentils,2017,12883.0
+603962,France,Maize,2010,88299.0
+603963,France,Maize,2011,99668.0
+603964,France,Maize,2012,90024.0
+603965,France,Maize,2013,81592.0
+603966,France,Maize,2014,100505.0
+603967,France,Maize,2015,83784.0
+603968,France,Maize,2016,82060.0
+603969,France,Maize,2017,101239.0
+603970,France,Maize,2018,88206.0
+603971,France,Maize,2019,85287.0
+604109,France,"Maize, green",2010,186006.0
+604110,France,"Maize, green",2011,193464.0
+604111,France,"Maize, green",2012,183769.0
+604112,France,"Maize, green",2013,176793.0
+604113,France,"Maize, green",2014,195858.0
+604114,France,"Maize, green",2015,210693.0
+604115,France,"Maize, green",2016,191313.0
+604116,France,"Maize, green",2017,203275.0
+604433,France,Millet,2010,34344.0
+604434,France,Millet,2011,34194.0
+604435,France,Millet,2012,33333.0
+604436,France,Millet,2013,33333.0
+604437,France,Millet,2014,30833.0
+604438,France,Millet,2015,36364.0
+604439,France,Millet,2016,39496.0
+604440,France,Millet,2017,37951.0
+604839,France,Oats,2010,45564.0
+604840,France,Oats,2011,41169.0
+604841,France,Oats,2012,48410.0
+604842,France,Oats,2013,46163.0
+604843,France,Oats,2014,44685.0
+604844,France,Oats,2015,46584.0
+604845,France,Oats,2016,40536.0
+604846,France,Oats,2017,47430.0
+604847,France,Oats,2018,46091.0
+604848,France,Oats,2019,46007.0
+604986,France,Oilseeds nes,2010,17428.0
+604987,France,Oilseeds nes,2011,19512.0
+604988,France,Oilseeds nes,2012,18318.0
+604989,France,Oilseeds nes,2013,18865.0
+604990,France,Oilseeds nes,2014,19541.0
+604991,France,Oilseeds nes,2015,17603.0
+604992,France,Oilseeds nes,2016,14055.0
+604993,France,Oilseeds nes,2017,20395.0
+604994,France,Oilseeds nes,2018,15223.0
+604995,France,Oilseeds nes,2019,13379.0
+605688,France,Oranges,2010,83664.0
+605689,France,Oranges,2011,80228.0
+605690,France,Oranges,2012,54291.0
+605691,France,Oranges,2013,51904.0
+605692,France,Oranges,2014,45599.0
+605693,France,Oranges,2015,45222.0
+605694,France,Oranges,2016,98570.0
+605695,France,Oranges,2017,108096.0
+605696,France,Oranges,2018,100900.0
+605697,France,Oranges,2019,84667.0
+606921,France,Potatoes,2010,421566.0
+606922,France,Potatoes,2011,468991.0
+606923,France,Potatoes,2012,413769.0
+606924,France,Potatoes,2013,431560.0
+606925,France,Potatoes,2014,479779.0
+606926,France,Potatoes,2015,425052.0
+606927,France,Potatoes,2016,388267.0
+606928,France,Potatoes,2017,440460.0
+606929,France,Potatoes,2018,393886.0
+606930,France,Potatoes,2019,413227.0
+607967,France,"Rice, paddy",2010,50432.0
+607968,France,"Rice, paddy",2011,56263.0
+607969,France,"Rice, paddy",2012,55947.0
+607970,France,"Rice, paddy",2013,39400.0
+607971,France,"Rice, paddy",2014,49784.0
+607972,France,"Rice, paddy",2015,50014.0
+607973,France,"Rice, paddy",2016,48045.0
+607974,France,"Rice, paddy",2017,53971.0
+607975,France,"Rice, paddy",2018,53788.0
+607976,France,"Rice, paddy",2019,54682.0
+608581,France,Soybeans,2010,27495.0
+608582,France,Soybeans,2011,29473.0
+608583,France,Soybeans,2012,27815.0
+608584,France,Soybeans,2013,25599.0
+608585,France,Soybeans,2014,29986.0
+608586,France,Soybeans,2015,27490.0
+608587,France,Soybeans,2016,24829.0
+608588,France,Soybeans,2017,29275.0
+608589,France,Soybeans,2018,25901.0
+608590,France,Soybeans,2019,26162.0
+609271,France,Sugar beet,2010,830589.0
+609272,France,Sugar beet,2011,969983.0
+609273,France,Sugar beet,2012,864355.0
+609274,France,Sugar beet,2013,854443.0
+609275,France,Sugar beet,2014,929504.0
+609276,France,Sugar beet,2015,870146.0
+609277,France,Sugar beet,2016,853708.0
+609278,France,Sugar beet,2017,952488.0
+609279,France,Sugar beet,2018,821530.0
+609280,France,Sugar beet,2019,851419.0
+609344,France,Sugar cane,2014,690130.0
+609345,France,Sugar cane,2015,696129.0
+609346,France,Sugar cane,2016,686562.0
+609347,France,Sugar cane,2017,757223.0
+609814,France,"Tobacco, unmanufactured",2010,26025.0
+609815,France,"Tobacco, unmanufactured",2011,23371.0
+609816,France,"Tobacco, unmanufactured",2012,24779.0
+609817,France,"Tobacco, unmanufactured",2013,22076.0
+609818,France,"Tobacco, unmanufactured",2014,23074.0
+609819,France,"Tobacco, unmanufactured",2015,26180.0
+609820,France,"Tobacco, unmanufactured",2016,25801.0
+609821,France,"Tobacco, unmanufactured",2017,27445.0
+609822,France,"Tobacco, unmanufactured",2018,26374.0
+609823,France,"Tobacco, unmanufactured",2019,25951.0
+610783,France,Watermelons,2010,187855.0
+610784,France,Watermelons,2011,202866.0
+610785,France,Watermelons,2012,196436.0
+610786,France,Watermelons,2013,173620.0
+610787,France,Watermelons,2014,201942.0
+610788,France,Watermelons,2015,189446.0
+610789,France,Watermelons,2016,187758.0
+610790,France,Watermelons,2017,186999.0
+610791,France,Watermelons,2018,187872.0
+610792,France,Watermelons,2019,204844.0
+610960,France,Wheat,2010,70405.0
+610961,France,Wheat,2011,66563.0
+610962,France,Wheat,2012,71512.0
+610963,France,Wheat,2013,72656.0
+610964,France,Wheat,2014,73530.0
+610965,France,Wheat,2015,78008.0
+610966,France,Wheat,2016,52896.0
+610967,France,Wheat,2017,72538.0
+610968,France,Wheat,2018,67680.0
+610969,France,Wheat,2019,77428.0
+638613,Germany,Apples,2010,262409.0
+638614,Germany,Apples,2011,284247.0
+638615,Germany,Apples,2012,307334.0
+638616,Germany,Apples,2013,253984.0
+638617,Germany,Apples,2014,354648.0
+638618,Germany,Apples,2015,309941.0
+638619,Germany,Apples,2016,329646.0
+638620,Germany,Apples,2017,175940.0
+638621,Germany,Apples,2018,352713.0
+638622,Germany,Apples,2019,291775.0
+638766,Germany,Apricots,2010,42927.0
+638767,Germany,Apricots,2011,42982.0
+638768,Germany,Apricots,2012,44182.0
+638769,Germany,Apricots,2013,44151.0
+638770,Germany,Apricots,2014,44000.0
+638771,Germany,Apricots,2015,43774.0
+638772,Germany,Apricots,2016,43208.0
+638773,Germany,Apricots,2017,43654.0
+639124,Germany,Barley,2010,62918.0
+639125,Germany,Barley,2011,54651.0
+639126,Germany,Barley,2012,61934.0
+639127,Germany,Barley,2013,65866.0
+639128,Germany,Barley,2014,73475.0
+639129,Germany,Barley,2015,71710.0
+639130,Germany,Barley,2016,66857.0
+639131,Germany,Barley,2017,69302.0
+639132,Germany,Barley,2018,57663.0
+639133,Germany,Barley,2019,67834.0
+642059,Germany,Grapes,2010,95339.0
+642060,Germany,Grapes,2011,125317.0
+642061,Germany,Grapes,2012,123213.0
+642062,Germany,Grapes,2013,114587.0
+642063,Germany,Grapes,2014,124407.0
+642064,Germany,Grapes,2015,120011.0
+642065,Germany,Grapes,2016,122509.0
+642066,Germany,Grapes,2017,101166.0
+642067,Germany,Grapes,2018,140105.0
+642068,Germany,Grapes,2019,111918.0
+643489,Germany,Maize,2010,90261.0
+643490,Germany,Maize,2011,106243.0
+643491,Germany,Maize,2012,104802.0
+643492,Germany,Maize,2013,88276.0
+643493,Germany,Maize,2014,106838.0
+643494,Germany,Maize,2015,87223.0
+643495,Germany,Maize,2016,96512.0
+643496,Germany,Maize,2017,105269.0
+643497,Germany,Maize,2018,81390.0
+643498,Germany,Maize,2019,88096.0
+643984,Germany,Oats,2010,42285.0
+643985,Germany,Oats,2011,43752.0
+643986,Germany,Oats,2012,52029.0
+643987,Germany,Oats,2013,47734.0
+643988,Germany,Oats,2014,50654.0
+643989,Germany,Oats,2015,45052.0
+643990,Germany,Oats,2016,46398.0
+643991,Germany,Oats,2017,45004.0
+643992,Germany,Oats,2018,41140.0
+643993,Germany,Oats,2019,41116.0
+645597,Germany,Potatoes,2010,398758.0
+645598,Germany,Potatoes,2011,457565.0
+645599,Germany,Potatoes,2012,447570.0
+645600,Germany,Potatoes,2013,398258.0
+645601,Germany,Potatoes,2014,474154.0
+645602,Germany,Potatoes,2015,438116.0
+645603,Germany,Potatoes,2016,444027.0
+645604,Germany,Potatoes,2017,467864.0
+645605,Germany,Potatoes,2018,353719.0
+645606,Germany,Potatoes,2019,390361.0
+646539,Germany,Soybeans,2010,20000.0
+646540,Germany,Soybeans,2011,15000.0
+646541,Germany,Soybeans,2012,20000.0
+646542,Germany,Soybeans,2013,20000.0
+646543,Germany,Soybeans,2014,20000.0
+646544,Germany,Soybeans,2015,22500.0
+646545,Germany,Soybeans,2016,26875.0
+646546,Germany,Soybeans,2017,34737.0
+646547,Germany,Soybeans,2018,24357.0
+646548,Germany,Soybeans,2019,29100.0
+646994,Germany,Sugar beet,2010,643522.0
+646995,Germany,Sugar beet,2011,742967.0
+646996,Germany,Sugar beet,2012,688555.0
+646997,Germany,Sugar beet,2013,638744.0
+646998,Germany,Sugar beet,2014,798607.0
+646999,Germany,Sugar beet,2015,721611.0
+647000,Germany,Sugar beet,2016,742945.0
+647001,Germany,Sugar beet,2017,837470.0
+647002,Germany,Sugar beet,2018,632795.0
+647003,Germany,Sugar beet,2019,727387.0
+647272,Germany,"Tobacco, unmanufactured",2010,26167.0
+647273,Germany,"Tobacco, unmanufactured",2011,25798.0
+647274,Germany,"Tobacco, unmanufactured",2012,25732.0
+647275,Germany,"Tobacco, unmanufactured",2013,25867.0
+647276,Germany,"Tobacco, unmanufactured",2014,25965.0
+647277,Germany,"Tobacco, unmanufactured",2015,26080.0
+647278,Germany,"Tobacco, unmanufactured",2016,25937.0
+647279,Germany,"Tobacco, unmanufactured",2017,26017.0
+648379,Germany,Wheat,2010,72120.0
+648380,Germany,Wheat,2011,70139.0
+648381,Germany,Wheat,2012,73312.0
+648382,Germany,Wheat,2013,79979.0
+648383,Germany,Wheat,2014,86296.0
+648384,Germany,Wheat,2015,80877.0
+648385,Germany,Wheat,2016,76409.0
+648386,Germany,Wheat,2017,76443.0
+648387,Germany,Wheat,2018,66737.0
+648388,Germany,Wheat,2019,73964.0
+762560,India,Apples,2010,62821.0
+762561,India,Apples,2011,100000.0
+762562,India,Apples,2012,68450.0
+762563,India,Apples,2013,61378.0
+762564,India,Apples,2014,79788.0
+762565,India,Apples,2015,66897.0
+762566,India,Apples,2016,91011.0
+762567,India,Apples,2017,74262.0
+762568,India,Apples,2018,77309.0
+762569,India,Apples,2019,75195.0
+762737,India,Apricots,2010,28274.0
+762738,India,Apricots,2011,28288.0
+762739,India,Apricots,2012,28298.0
+762740,India,Apricots,2013,28310.0
+762741,India,Apricots,2014,28232.0
+762742,India,Apricots,2015,28253.0
+762743,India,Apricots,2016,28349.0
+762744,India,Apricots,2017,28359.0
+762745,India,Apricots,2018,28367.0
+762746,India,Apricots,2019,28374.0
+763091,India,Bananas,2010,358795.0
+763092,India,Bananas,2011,357252.0
+763093,India,Bananas,2012,341611.0
+763094,India,Bananas,2013,346420.0
+763095,India,Bananas,2014,370367.0
+763096,India,Bananas,2015,355487.0
+763097,India,Bananas,2016,346433.0
+763098,India,Bananas,2017,354384.0
+763099,India,Bananas,2018,348507.0
+763100,India,Bananas,2019,351732.0
+763268,India,Barley,2010,21717.0
+763269,India,Barley,2011,23574.0
+763270,India,Barley,2012,25194.0
+763271,India,Barley,2013,25180.0
+763272,India,Barley,2014,27171.0
+763273,India,Barley,2015,22815.0
+763274,India,Barley,2016,24407.0
+763275,India,Barley,2017,26628.0
+763276,India,Barley,2018,26949.0
+763277,India,Barley,2019,28372.0
+765366,India,Chick peas,2010,9155.0
+765367,India,Chick peas,2011,8945.0
+765368,India,Chick peas,2012,9255.0
+765369,India,Chick peas,2013,10364.0
+765370,India,Chick peas,2014,9600.0
+765371,India,Chick peas,2015,8886.0
+765372,India,Chick peas,2016,8403.0
+765373,India,Chick peas,2017,9742.0
+765374,India,Chick peas,2018,10775.0
+765375,India,Chick peas,2019,10410.0
+766042,India,Coconuts,2010,57176.0
+766043,India,Coconuts,2011,49642.0
+766044,India,Coconuts,2012,49415.0
+766045,India,Coconuts,2013,55748.0
+766046,India,Coconuts,2014,56073.0
+766047,India,Coconuts,2015,53673.0
+766048,India,Coconuts,2016,54488.0
+766049,India,Coconuts,2017,53661.0
+766050,India,Coconuts,2018,78269.0
+766051,India,Coconuts,2019,68257.0
+766219,India,"Coffee, green",2010,8146.0
+766220,India,"Coffee, green",2011,8378.0
+766221,India,"Coffee, green",2012,8517.0
+766222,India,"Coffee, green",2013,8456.0
+766223,India,"Coffee, green",2014,7986.0
+766224,India,"Coffee, green",2015,7726.0
+766225,India,"Coffee, green",2016,8010.0
+766226,India,"Coffee, green",2017,6943.0
+766227,India,"Coffee, green",2018,7651.0
+766228,India,"Coffee, green",2019,7667.0
+768222,India,Grapes,2010,82773.0
+768223,India,Grapes,2011,111261.0
+768224,India,Grapes,2012,191466.0
+768225,India,Grapes,2013,210424.0
+768226,India,Grapes,2014,217731.0
+768227,India,Grapes,2015,216833.0
+768228,India,Grapes,2016,212295.0
+768229,India,Grapes,2017,213285.0
+768230,India,Grapes,2018,210072.0
+768231,India,Grapes,2019,217214.0
+768632,India,Jute,2010,23437.0
+768633,India,Jute,2011,24505.0
+768634,India,Jute,2012,23900.0
+768635,India,Jute,2013,24300.0
+768636,India,Jute,2014,26559.0
+768637,India,Jute,2015,23146.0
+768638,India,Jute,2016,25221.0
+768639,India,Jute,2017,26595.0
+768640,India,Jute,2018,25175.0
+768641,India,Jute,2019,25695.0
+768986,India,Lentils,2010,6973.0
+768987,India,Lentils,2011,5908.0
+768988,India,Lentils,2012,6778.0
+768989,India,Lentils,2013,7969.0
+768990,India,Lentils,2014,7584.0
+768991,India,Lentils,2015,7046.0
+768992,India,Lentils,2016,7649.0
+768993,India,Lentils,2017,8376.0
+768994,India,Lentils,2018,10469.0
+768995,India,Lentils,2019,9010.0
+769517,India,Maize,2010,25401.0
+769518,India,Maize,2011,24784.0
+769519,India,Maize,2012,25557.0
+769520,India,Maize,2013,25726.0
+769521,India,Maize,2014,26107.0
+769522,India,Maize,2015,25972.0
+769523,India,Maize,2016,26162.0
+769524,India,Maize,2017,26886.0
+769525,India,Maize,2018,30653.0
+769526,India,Maize,2019,30702.0
+769694,India,"Mangoes, mangosteens, guavas",2010,64986.0
+769695,India,"Mangoes, mangosteens, guavas",2011,66121.0
+769696,India,"Mangoes, mangosteens, guavas",2012,68108.0
+769697,India,"Mangoes, mangosteens, guavas",2013,72008.0
+769698,India,"Mangoes, mangosteens, guavas",2014,73257.0
+769699,India,"Mangoes, mangosteens, guavas",2015,85654.0
+769700,India,"Mangoes, mangosteens, guavas",2016,84396.0
+769701,India,"Mangoes, mangosteens, guavas",2017,94385.0
+769702,India,"Mangoes, mangosteens, guavas",2018,98797.0
+769703,India,"Mangoes, mangosteens, guavas",2019,99654.0
+770048,India,Millet,2010,11273.0
+770049,India,Millet,2011,11854.0
+770050,India,Millet,2012,9998.0
+770051,India,Millet,2013,11886.0
+770052,India,Millet,2014,11789.0
+770053,India,Millet,2015,12758.0
+770054,India,Millet,2016,11629.0
+770055,India,Millet,2017,12709.0
+770056,India,Millet,2018,12616.0
+770057,India,Millet,2019,12114.0
+770461,India,Oilseeds nes,2010,2778.0
+770462,India,Oilseeds nes,2011,3161.0
+770463,India,Oilseeds nes,2012,3238.0
+770464,India,Oilseeds nes,2013,3280.0
+770465,India,Oilseeds nes,2014,3248.0
+770466,India,Oilseeds nes,2015,2937.0
+770467,India,Oilseeds nes,2016,3038.0
+770468,India,Oilseeds nes,2017,3119.0
+770469,India,Oilseeds nes,2018,3127.0
+770470,India,Oilseeds nes,2019,3135.0
+770992,India,Oranges,2010,94510.0
+770993,India,Oranges,2011,95031.0
+770994,India,Oranges,2012,88843.0
+770995,India,Oranges,2013,101296.0
+770996,India,Oranges,2014,110054.0
+770997,India,Oranges,2015,112391.0
+770998,India,Oranges,2016,118268.0
+770999,India,Oranges,2017,127238.0
+771000,India,Oranges,2018,136493.0
+771001,India,Oranges,2019,144954.0
+771169,India,Papayas,2010,395849.0
+771170,India,Papayas,2011,379651.0
+771171,India,Papayas,2012,407727.0
+771172,India,Papayas,2013,410667.0
+771173,India,Papayas,2014,422863.0
+771174,India,Papayas,2015,427217.0
+771175,India,Papayas,2016,429318.0
+771176,India,Papayas,2017,443284.0
+771177,India,Papayas,2018,433986.0
+771178,India,Papayas,2019,406040.0
+772228,India,Pigeon peas,2010,7098.0
+772229,India,Pigeon peas,2011,6549.0
+772230,India,Pigeon peas,2012,6511.0
+772231,India,Pigeon peas,2013,7764.0
+772232,India,Pigeon peas,2014,8120.0
+772233,India,Pigeon peas,2015,7291.0
+772234,India,Pigeon peas,2016,6460.0
+772235,India,Pigeon peas,2017,9130.0
+772236,India,Pigeon peas,2018,9665.0
+772237,India,Pigeon peas,2019,7287.0
+772844,India,Potatoes,2010,199299.0
+772845,India,Potatoes,2011,227240.0
+772846,India,Potatoes,2012,217530.0
+772847,India,Potatoes,2013,227606.0
+772848,India,Potatoes,2014,229224.0
+772849,India,Potatoes,2015,231257.0
+772850,India,Potatoes,2016,205087.0
+772851,India,Potatoes,2017,223061.0
+772852,India,Potatoes,2018,239542.0
+772853,India,Potatoes,2019,230971.0
+773550,India,"Rice, paddy",2010,33587.0
+773551,India,"Rice, paddy",2011,35878.0
+773552,India,"Rice, paddy",2012,36909.0
+773553,India,"Rice, paddy",2013,36070.0
+773554,India,"Rice, paddy",2014,35638.0
+773555,India,"Rice, paddy",2015,36077.0
+773556,India,"Rice, paddy",2016,37902.0
+773557,India,"Rice, paddy",2017,38493.0
+773558,India,"Rice, paddy",2018,39568.0
+773559,India,"Rice, paddy",2019,40577.0
+774140,India,Seed cotton,2010,15940.0
+774141,India,Seed cotton,2011,15748.0
+774142,India,Seed cotton,2012,15174.0
+774143,India,Seed cotton,2013,16179.0
+774144,India,Seed cotton,2014,14131.0
+774145,India,Seed cotton,2015,13431.0
+774146,India,Seed cotton,2016,15982.0
+774147,India,Seed cotton,2017,14019.0
+774148,India,Seed cotton,2018,11868.0
+774149,India,Seed cotton,2019,11566.0
+774671,India,Soybeans,2010,13330.0
+774672,India,Soybeans,2011,11998.0
+774673,India,Soybeans,2012,13530.0
+774674,India,Soybeans,2013,10123.0
+774675,India,Soybeans,2014,9358.0
+774676,India,Soybeans,2015,7344.0
+774677,India,Soybeans,2016,11770.0
+774678,India,Soybeans,2017,11766.0
+774679,India,Soybeans,2018,10585.0
+774680,India,Soybeans,2019,11919.0
+775023,India,Sugar cane,2010,700191.0
+775024,India,Sugar cane,2011,692466.0
+775025,India,Sugar cane,2012,716343.0
+775026,India,Sugar cane,2013,682400.0
+775027,India,Sugar cane,2014,705695.0
+775028,India,Sugar cane,2015,714661.0
+775029,India,Sugar cane,2016,703935.0
+775030,India,Sugar cane,2017,690014.0
+775031,India,Sugar cane,2018,801984.0
+775032,India,Sugar cane,2019,801045.0
+775527,India,Tea,2010,17119.0
+775528,India,Tea,2011,18258.0
+775529,India,Tea,2012,18761.0
+775530,India,Tea,2013,21433.0
+775531,India,Tea,2014,19989.0
+775532,India,Tea,2015,21762.0
+775533,India,Tea,2016,21654.0
+775534,India,Tea,2017,21316.0
+775535,India,Tea,2018,21489.0
+775536,India,Tea,2019,22128.0
+775704,India,"Tobacco, unmanufactured",2010,15531.0
+775705,India,"Tobacco, unmanufactured",2011,16939.0
+775706,India,"Tobacco, unmanufactured",2012,17826.0
+775707,India,"Tobacco, unmanufactured",2013,17161.0
+775708,India,"Tobacco, unmanufactured",2014,16947.0
+775709,India,"Tobacco, unmanufactured",2015,17125.0
+775710,India,"Tobacco, unmanufactured",2016,17442.0
+775711,India,"Tobacco, unmanufactured",2017,17640.0
+775712,India,"Tobacco, unmanufactured",2018,17839.0
+775713,India,"Tobacco, unmanufactured",2019,18037.0
+776409,India,Watermelons,2010,138070.0
+776410,India,Watermelons,2011,213131.0
+776411,India,Watermelons,2012,243239.0
+776412,India,Watermelons,2013,220864.0
+776413,India,Watermelons,2014,241333.0
+776414,India,Watermelons,2015,241011.0
+776415,India,Watermelons,2016,244737.0
+776416,India,Watermelons,2017,239780.0
+776417,India,Watermelons,2018,249505.0
+776418,India,Watermelons,2019,249500.0
+776586,India,Wheat,2010,28395.0
+776587,India,Wheat,2011,29886.0
+776588,India,Wheat,2012,31775.0
+776589,India,Wheat,2013,31538.0
+776590,India,Wheat,2014,31457.0
+776591,India,Wheat,2015,27496.0
+776592,India,Wheat,2016,30339.0
+776593,India,Wheat,2017,31999.0
+776594,India,Wheat,2018,33682.0
+776595,India,Wheat,2019,35334.0
+868664,Japan,Apples,2010,206430.0
+868665,Japan,Apples,2011,173360.0
+868666,Japan,Apples,2012,212246.0
+868667,Japan,Apples,2013,199382.0
+868668,Japan,Apples,2014,220027.0
+868669,Japan,Apples,2015,219324.0
+868670,Japan,Apples,2016,207880.0
+868671,Japan,Apples,2017,201425.0
+868672,Japan,Apples,2018,208867.0
+868673,Japan,Apples,2019,194889.0
+868803,Japan,Apricots,2010,54675.0
+868804,Japan,Apricots,2011,64398.0
+868805,Japan,Apricots,2012,54878.0
+868806,Japan,Apricots,2013,76358.0
+868807,Japan,Apricots,2014,68765.0
+868808,Japan,Apricots,2015,61572.0
+868809,Japan,Apricots,2016,59423.0
+868810,Japan,Apricots,2017,57483.0
+868811,Japan,Apricots,2018,75946.0
+868812,Japan,Apricots,2019,60759.0
+869157,Japan,Bananas,2010,35172.0
+869158,Japan,Bananas,2011,33636.0
+869159,Japan,Bananas,2012,33125.0
+869160,Japan,Bananas,2013,33077.0
+869161,Japan,Bananas,2014,30000.0
+869162,Japan,Bananas,2015,40000.0
+869163,Japan,Bananas,2016,25000.0
+869164,Japan,Bananas,2017,30000.0
+869165,Japan,Bananas,2018,30000.0
+869166,Japan,Bananas,2019,30000.0
+869334,Japan,Barley,2010,27411.0
+869335,Japan,Barley,2011,28536.0
+869336,Japan,Barley,2012,28543.0
+869337,Japan,Barley,2013,30774.0
+869338,Japan,Barley,2014,28189.0
+869339,Japan,Barley,2015,28858.0
+869340,Japan,Barley,2016,27752.0
+869341,Japan,Barley,2017,30098.0
+869342,Japan,Barley,2018,28639.0
+869343,Japan,Barley,2019,36211.0
+872885,Japan,Grapes,2010,102667.0
+872886,Japan,Grapes,2011,96966.0
+872887,Japan,Grapes,2012,112670.0
+872888,Japan,Grapes,2013,109023.0
+872889,Japan,Grapes,2014,109364.0
+872890,Japan,Grapes,2015,105556.0
+872891,Japan,Grapes,2016,105412.0
+872892,Japan,Grapes,2017,104201.0
+872893,Japan,Grapes,2018,104611.0
+872894,Japan,Grapes,2019,104036.0
+874223,Japan,Maize,2010,25538.0
+874224,Japan,Maize,2011,25846.0
+874225,Japan,Maize,2012,26154.0
+874226,Japan,Maize,2013,27273.0
+874227,Japan,Maize,2014,26957.0
+874228,Japan,Maize,2015,26182.0
+874229,Japan,Maize,2016,26545.0
+874230,Japan,Maize,2017,26364.0
+874231,Japan,Maize,2018,26364.0
+874232,Japan,Maize,2019,26852.0
+874400,Japan,"Maize, green",2010,92767.0
+874401,Japan,"Maize, green",2011,96120.0
+874402,Japan,"Maize, green",2012,102120.0
+874403,Japan,"Maize, green",2013,97049.0
+874404,Japan,"Maize, green",2014,102254.0
+874405,Japan,"Maize, green",2015,99710.0
+874406,Japan,"Maize, green",2016,81750.0
+874407,Japan,"Maize, green",2017,102070.0
+874408,Japan,"Maize, green",2018,94199.0
+874409,Japan,"Maize, green",2019,95934.0
+874535,Japan,"Mangoes, mangosteens, guavas",2010,78101.0
+874536,Japan,"Mangoes, mangosteens, guavas",2011,74207.0
+874537,Japan,"Mangoes, mangosteens, guavas",2012,65034.0
+874538,Japan,"Mangoes, mangosteens, guavas",2013,70670.0
+874539,Japan,"Mangoes, mangosteens, guavas",2014,71390.0
+874540,Japan,"Mangoes, mangosteens, guavas",2015,71307.0
+874541,Japan,"Mangoes, mangosteens, guavas",2016,71269.0
+874542,Japan,"Mangoes, mangosteens, guavas",2017,71364.0
+874543,Japan,"Mangoes, mangosteens, guavas",2018,71282.0
+874544,Japan,"Mangoes, mangosteens, guavas",2019,71374.0
+874889,Japan,Millet,2010,8436.0
+874890,Japan,Millet,2011,8384.0
+874891,Japan,Millet,2012,8333.0
+874892,Japan,Millet,2013,8667.0
+874893,Japan,Millet,2014,8833.0
+874894,Japan,Millet,2015,7904.0
+874895,Japan,Millet,2016,7944.0
+874896,Japan,Millet,2017,7817.0
+874897,Japan,Millet,2018,7714.0
+874898,Japan,Millet,2019,7617.0
+875125,Japan,Oats,2010,19267.0
+875126,Japan,Oats,2011,19231.0
+875127,Japan,Oats,2012,19191.0
+875128,Japan,Oats,2013,19128.0
+875129,Japan,Oats,2014,19231.0
+875130,Japan,Oats,2015,19241.0
+875131,Japan,Oats,2016,19098.0
+875132,Japan,Oats,2017,19136.0
+875133,Japan,Oats,2018,19130.0
+875134,Japan,Oats,2019,19206.0
+875738,Japan,Oranges,2010,142693.0
+875739,Japan,Oranges,2011,132097.0
+875740,Japan,Oranges,2012,122946.0
+875741,Japan,Oranges,2013,117257.0
+875742,Japan,Oranges,2014,117080.0
+875743,Japan,Oranges,2015,115050.0
+875744,Japan,Oranges,2016,110447.0
+875745,Japan,Oranges,2017,106608.0
+875746,Japan,Oranges,2018,102822.0
+875747,Japan,Oranges,2019,99008.0
+877325,Japan,Potatoes,2010,277576.0
+877326,Japan,Potatoes,2011,294691.0
+877327,Japan,Potatoes,2012,307882.0
+877328,Japan,Potatoes,2013,302133.0
+877329,Japan,Potatoes,2014,313665.0
+877330,Japan,Potatoes,2015,315550.0
+877331,Japan,Potatoes,2016,284845.0
+877332,Japan,Potatoes,2017,310233.0
+877333,Japan,Potatoes,2018,295425.0
+877334,Japan,Potatoes,2019,298691.0
+878326,Japan,"Rice, paddy",2010,65076.0
+878327,Japan,"Rice, paddy",2011,66462.0
+878328,Japan,"Rice, paddy",2012,68632.0
+878329,Japan,"Rice, paddy",2013,69315.0
+878330,Japan,"Rice, paddy",2014,69801.0
+878331,Japan,"Rice, paddy",2015,68754.0
+878332,Japan,"Rice, paddy",2016,69643.0
+878333,Japan,"Rice, paddy",2017,69216.0
+878334,Japan,"Rice, paddy",2018,68426.0
+878335,Japan,"Rice, paddy",2019,68268.0
+879188,Japan,Soybeans,2010,16158.0
+879189,Japan,Soybeans,2011,16006.0
+879190,Japan,Soybeans,2012,17994.0
+879191,Japan,Soybeans,2013,15520.0
+879192,Japan,Soybeans,2014,17614.0
+879193,Japan,Soybeans,2015,17120.0
+879194,Japan,Soybeans,2016,15867.0
+879195,Japan,Soybeans,2017,16844.0
+879196,Japan,Soybeans,2018,14413.0
+879197,Japan,Soybeans,2019,15178.0
+879896,Japan,Sugar beet,2010,493610.0
+879897,Japan,Sugar beet,2011,586281.0
+879898,Japan,Sugar beet,2012,633727.0
+879899,Japan,Sugar beet,2013,590206.0
+879900,Japan,Sugar beet,2014,621429.0
+879901,Japan,Sugar beet,2015,667517.0
+879902,Japan,Sugar beet,2016,534171.0
+879903,Japan,Sugar beet,2017,670275.0
+879904,Japan,Sugar beet,2018,630192.0
+879905,Japan,Sugar beet,2019,702998.0
+880073,Japan,Sugar cane,2010,633190.0
+880074,Japan,Sugar cane,2011,442478.0
+880075,Japan,Sugar cane,2012,481739.0
+880076,Japan,Sugar cane,2013,543836.0
+880077,Japan,Sugar cane,2014,506114.0
+880078,Japan,Sugar cane,2015,538462.0
+880079,Japan,Sugar cane,2016,687336.0
+880080,Japan,Sugar cane,2017,547257.0
+880081,Japan,Sugar cane,2018,529204.0
+880082,Japan,Sugar cane,2019,547040.0
+880781,Japan,Tea,2010,18162.0
+880782,Japan,Tea,2011,17771.0
+880783,Japan,Tea,2012,18715.0
+880784,Japan,Tea,2013,18678.0
+880785,Japan,Tea,2014,18661.0
+880786,Japan,Tea,2015,18068.0
+880787,Japan,Tea,2016,18608.0
+880788,Japan,Tea,2017,19340.0
+880789,Japan,Tea,2018,20795.0
+880790,Japan,Tea,2019,20123.0
+880958,Japan,"Tobacco, unmanufactured",2010,19533.0
+880959,Japan,"Tobacco, unmanufactured",2011,18154.0
+880960,Japan,"Tobacco, unmanufactured",2012,21889.0
+880961,Japan,"Tobacco, unmanufactured",2013,22500.0
+880962,Japan,"Tobacco, unmanufactured",2014,23256.0
+880963,Japan,"Tobacco, unmanufactured",2015,22530.0
+880964,Japan,"Tobacco, unmanufactured",2016,22375.0
+880965,Japan,"Tobacco, unmanufactured",2017,25000.0
+880966,Japan,"Tobacco, unmanufactured",2018,24059.0
+880967,Japan,"Tobacco, unmanufactured",2019,25907.0
+881653,Japan,Watermelons,2010,315556.0
+881654,Japan,Watermelons,2011,317982.0
+881655,Japan,Watermelons,2012,327699.0
+881656,Japan,Watermelons,2013,323000.0
+881657,Japan,Watermelons,2014,331019.0
+881658,Japan,Watermelons,2015,320566.0
+881659,Japan,Watermelons,2016,331538.0
+881660,Japan,Watermelons,2017,324608.0
+881661,Japan,Watermelons,2018,321565.0
+881662,Japan,Watermelons,2019,325039.0
+881830,Japan,Wheat,2010,27612.0
+881831,Japan,Wheat,2011,35286.0
+881832,Japan,Wheat,2012,41004.0
+881833,Japan,Wheat,2013,38616.0
+881834,Japan,Wheat,2014,40094.0
+881835,Japan,Wheat,2015,47114.0
+881836,Japan,Wheat,2016,36884.0
+881837,Japan,Wheat,2017,42708.0
+881838,Japan,Wheat,2018,36097.0
+881839,Japan,Wheat,2019,49008.0
+902442,Kenya,Apples,2010,87226.0
+902443,Kenya,Apples,2011,56043.0
+902444,Kenya,Apples,2012,86769.0
+902445,Kenya,Apples,2013,56571.0
+902446,Kenya,Apples,2014,97742.0
+902447,Kenya,Apples,2015,105179.0
+902448,Kenya,Apples,2016,75976.0
+902449,Kenya,Apples,2017,40541.0
+902450,Kenya,Apples,2018,17899.0
+902451,Kenya,Apples,2019,65000.0
+902619,Kenya,Apricots,2010,53571.0
+902620,Kenya,Apricots,2011,52143.0
+902621,Kenya,Apricots,2012,50000.0
+902622,Kenya,Apricots,2013,46667.0
+902623,Kenya,Apricots,2014,49333.0
+902624,Kenya,Apricots,2015,47059.0
+902625,Kenya,Apricots,2016,46471.0
+902626,Kenya,Apricots,2017,47059.0
+902627,Kenya,Apricots,2018,45000.0
+902628,Kenya,Apricots,2019,43158.0
+903311,Kenya,Bananas,2010,189684.0
+903312,Kenya,Bananas,2011,242873.0
+903313,Kenya,Bananas,2012,208238.0
+903314,Kenya,Bananas,2013,228503.0
+903315,Kenya,Bananas,2014,277056.0
+903316,Kenya,Bananas,2015,212482.0
+903317,Kenya,Bananas,2016,203572.0
+903318,Kenya,Bananas,2017,184872.0
+903319,Kenya,Bananas,2018,194394.0
+903320,Kenya,Bananas,2019,223082.0
+903488,Kenya,Barley,2010,25562.0
+903489,Kenya,Barley,2011,34641.0
+903490,Kenya,Barley,2012,43949.0
+903491,Kenya,Barley,2013,33481.0
+903492,Kenya,Barley,2014,30374.0
+903493,Kenya,Barley,2015,36793.0
+903494,Kenya,Barley,2016,36572.0
+903495,Kenya,Barley,2017,36667.0
+903496,Kenya,Barley,2018,39134.0
+903497,Kenya,Barley,2019,38963.0
+905106,Kenya,Chick peas,2010,3501.0
+905107,Kenya,Chick peas,2011,3518.0
+905108,Kenya,Chick peas,2012,3537.0
+905109,Kenya,Chick peas,2013,3556.0
+905110,Kenya,Chick peas,2014,3489.0
+905111,Kenya,Chick peas,2015,3480.0
+905112,Kenya,Chick peas,2016,3538.0
+905113,Kenya,Chick peas,2017,3548.0
+905114,Kenya,Chick peas,2018,3559.0
+905115,Kenya,Chick peas,2019,3567.0
+905771,Kenya,Coconuts,2010,14880.0
+905772,Kenya,Coconuts,2011,17270.0
+905773,Kenya,Coconuts,2012,28508.0
+905774,Kenya,Coconuts,2013,16365.0
+905775,Kenya,Coconuts,2014,16484.0
+905776,Kenya,Coconuts,2015,22888.0
+905777,Kenya,Coconuts,2016,24309.0
+905778,Kenya,Coconuts,2017,11374.0
+905779,Kenya,Coconuts,2018,12706.0
+905780,Kenya,Coconuts,2019,12654.0
+905948,Kenya,"Coffee, green",2010,2625.0
+905949,Kenya,"Coffee, green",2011,3140.0
+905950,Kenya,"Coffee, green",2012,4463.0
+905951,Kenya,"Coffee, green",2013,3625.0
+905952,Kenya,"Coffee, green",2014,4500.0
+905953,Kenya,"Coffee, green",2015,3700.0
+905954,Kenya,"Coffee, green",2016,4044.0
+905955,Kenya,"Coffee, green",2017,3367.0
+905956,Kenya,"Coffee, green",2018,3580.0
+905957,Kenya,"Coffee, green",2019,3830.0
+908051,Kenya,Lentils,2010,6875.0
+908052,Kenya,Lentils,2011,6765.0
+908053,Kenya,Lentils,2012,7692.0
+908054,Kenya,Lentils,2013,7885.0
+908055,Kenya,Lentils,2014,7668.0
+908056,Kenya,Lentils,2015,7695.0
+908057,Kenya,Lentils,2016,7949.0
+908058,Kenya,Lentils,2017,8095.0
+908059,Kenya,Lentils,2018,7852.0
+908060,Kenya,Lentils,2019,7848.0
+908552,Kenya,Maize,2010,17251.0
+908553,Kenya,Maize,2011,15840.0
+908554,Kenya,Maize,2012,17366.0
+908555,Kenya,Maize,2013,16922.0
+908556,Kenya,Maize,2014,16602.0
+908557,Kenya,Maize,2015,18230.0
+908558,Kenya,Maize,2016,14284.0
+908559,Kenya,Maize,2017,15272.0
+908560,Kenya,Maize,2018,17656.0
+908561,Kenya,Maize,2019,17745.0
+908729,Kenya,"Mangoes, mangosteens, guavas",2010,159898.0
+908730,Kenya,"Mangoes, mangosteens, guavas",2011,115057.0
+908731,Kenya,"Mangoes, mangosteens, guavas",2012,118883.0
+908732,Kenya,"Mangoes, mangosteens, guavas",2013,123731.0
+908733,Kenya,"Mangoes, mangosteens, guavas",2014,129452.0
+908734,Kenya,"Mangoes, mangosteens, guavas",2015,138590.0
+908735,Kenya,"Mangoes, mangosteens, guavas",2016,174515.0
+908736,Kenya,"Mangoes, mangosteens, guavas",2017,116260.0
+908737,Kenya,"Mangoes, mangosteens, guavas",2018,119047.0
+908738,Kenya,"Mangoes, mangosteens, guavas",2019,102867.0
+908950,Kenya,Millet,2010,5436.0
+908951,Kenya,Millet,2011,6596.0
+908952,Kenya,Millet,2012,11684.0
+908953,Kenya,Millet,2013,8249.0
+908954,Kenya,Millet,2014,9076.0
+908955,Kenya,Millet,2015,10968.0
+908956,Kenya,Millet,2016,6111.0
+908957,Kenya,Millet,2017,4275.0
+908958,Kenya,Millet,2018,6250.0
+908959,Kenya,Millet,2019,9495.0
+909518,Kenya,Oats,2010,8889.0
+909519,Kenya,Oats,2011,8974.0
+909520,Kenya,Oats,2012,10000.0
+909521,Kenya,Oats,2013,10000.0
+909522,Kenya,Oats,2014,9698.0
+909523,Kenya,Oats,2015,9561.0
+909524,Kenya,Oats,2016,9506.0
+909525,Kenya,Oats,2017,9443.0
+909526,Kenya,Oats,2018,9379.0
+909527,Kenya,Oats,2019,9315.0
+909695,Kenya,Oilseeds nes,2010,4211.0
+909696,Kenya,Oilseeds nes,2011,4196.0
+909697,Kenya,Oilseeds nes,2012,4000.0
+909698,Kenya,Oilseeds nes,2013,4000.0
+909699,Kenya,Oilseeds nes,2014,4010.0
+909700,Kenya,Oilseeds nes,2015,3949.0
+909701,Kenya,Oilseeds nes,2016,3829.0
+909702,Kenya,Oilseeds nes,2017,3754.0
+909703,Kenya,Oilseeds nes,2018,3690.0
+909704,Kenya,Oilseeds nes,2019,3635.0
+910195,Kenya,Oranges,2010,161886.0
+910196,Kenya,Oranges,2011,120958.0
+910197,Kenya,Oranges,2012,102727.0
+910198,Kenya,Oranges,2013,132682.0
+910199,Kenya,Oranges,2014,149693.0
+910200,Kenya,Oranges,2015,151686.0
+910201,Kenya,Oranges,2016,117272.0
+910202,Kenya,Oranges,2017,94553.0
+910203,Kenya,Oranges,2018,99620.0
+910204,Kenya,Oranges,2019,75764.0
+910372,Kenya,Papayas,2010,118246.0
+910373,Kenya,Papayas,2011,135109.0
+910374,Kenya,Papayas,2012,157003.0
+910375,Kenya,Papayas,2013,142042.0
+910376,Kenya,Papayas,2014,141466.0
+910377,Kenya,Papayas,2015,138570.0
+910378,Kenya,Papayas,2016,138324.0
+910379,Kenya,Papayas,2017,123666.0
+910380,Kenya,Papayas,2018,147651.0
+910381,Kenya,Papayas,2019,152587.0
+911082,Kenya,Pigeon peas,2010,6509.0
+911083,Kenya,Pigeon peas,2011,6078.0
+911084,Kenya,Pigeon peas,2012,6070.0
+911085,Kenya,Pigeon peas,2013,6460.0
+911086,Kenya,Pigeon peas,2014,9942.0
+911087,Kenya,Pigeon peas,2015,15000.0
+911088,Kenya,Pigeon peas,2016,9043.0
+911089,Kenya,Pigeon peas,2017,5074.0
+911090,Kenya,Pigeon peas,2018,7910.0
+911091,Kenya,Pigeon peas,2019,7910.0
+911759,Kenya,Potatoes,2010,224279.0
+911760,Kenya,Potatoes,2011,191690.0
+911761,Kenya,Potatoes,2012,203389.0
+911762,Kenya,Potatoes,2013,144262.0
+911763,Kenya,Potatoes,2014,140655.0
+911764,Kenya,Potatoes,2015,147043.0
+911765,Kenya,Potatoes,2016,91520.0
+911766,Kenya,Potatoes,2017,91858.0
+911767,Kenya,Potatoes,2018,86067.0
+911768,Kenya,Potatoes,2019,93907.0
+912290,Kenya,"Rice, paddy",2010,42384.0
+912291,Kenya,"Rice, paddy",2011,39676.0
+912292,Kenya,"Rice, paddy",2012,46643.0
+912293,Kenya,"Rice, paddy",2013,39955.0
+912294,Kenya,"Rice, paddy",2014,39543.0
+912295,Kenya,"Rice, paddy",2015,39566.0
+912296,Kenya,"Rice, paddy",2016,34601.0
+912297,Kenya,"Rice, paddy",2017,26717.0
+912298,Kenya,"Rice, paddy",2018,43366.0
+912299,Kenya,"Rice, paddy",2019,68363.0
+912703,Kenya,Seed cotton,2010,4815.0
+912704,Kenya,Seed cotton,2011,6865.0
+912705,Kenya,Seed cotton,2012,2928.0
+912706,Kenya,Seed cotton,2013,5264.0
+912707,Kenya,Seed cotton,2014,5539.0
+912708,Kenya,Seed cotton,2015,5493.0
+912709,Kenya,Seed cotton,2016,5505.0
+912710,Kenya,Seed cotton,2017,6999.0
+912711,Kenya,Seed cotton,2018,4410.0
+912712,Kenya,Seed cotton,2019,4410.0
+913382,Kenya,Soybeans,2010,9500.0
+913383,Kenya,Soybeans,2011,12578.0
+913384,Kenya,Soybeans,2012,14997.0
+913385,Kenya,Soybeans,2013,12215.0
+913386,Kenya,Soybeans,2014,10643.0
+913387,Kenya,Soybeans,2015,9428.0
+913388,Kenya,Soybeans,2016,9061.0
+913389,Kenya,Soybeans,2017,10470.0
+913390,Kenya,Soybeans,2018,10033.0
+913391,Kenya,Soybeans,2019,9992.0
+914028,Kenya,Sugar cane,2010,830630.0
+914029,Kenya,Sugar cane,2011,671815.0
+914030,Kenya,Sugar cane,2012,666815.0
+914031,Kenya,Sugar cane,2013,777307.0
+914032,Kenya,Sugar cane,2014,888048.0
+914033,Kenya,Sugar cane,2015,920569.0
+914034,Kenya,Sugar cane,2016,816637.0
+914035,Kenya,Sugar cane,2017,701779.0
+914036,Kenya,Sugar cane,2018,720202.0
+914037,Kenya,Sugar cane,2019,640626.0
+914686,Kenya,Tea,2010,23209.0
+914687,Kenya,Tea,2011,20117.0
+914688,Kenya,Tea,2012,19381.0
+914689,Kenya,Tea,2013,21772.0
+914690,Kenya,Tea,2014,21926.0
+914691,Kenya,Tea,2015,19059.0
+914692,Kenya,Tea,2016,21648.0
+914693,Kenya,Tea,2017,18902.0
+914694,Kenya,Tea,2018,20872.0
+914695,Kenya,Tea,2019,17032.0
+914863,Kenya,"Tobacco, unmanufactured",2010,7538.0
+914864,Kenya,"Tobacco, unmanufactured",2011,8236.0
+914865,Kenya,"Tobacco, unmanufactured",2012,8086.0
+914866,Kenya,"Tobacco, unmanufactured",2013,7808.0
+914867,Kenya,"Tobacco, unmanufactured",2014,7088.0
+914868,Kenya,"Tobacco, unmanufactured",2015,6638.0
+914869,Kenya,"Tobacco, unmanufactured",2016,6236.0
+914870,Kenya,"Tobacco, unmanufactured",2017,5858.0
+914871,Kenya,"Tobacco, unmanufactured",2018,5479.0
+914872,Kenya,"Tobacco, unmanufactured",2019,5101.0
+915666,Kenya,Watermelons,2010,243737.0
+915667,Kenya,Watermelons,2011,202119.0
+915668,Kenya,Watermelons,2012,224920.0
+915669,Kenya,Watermelons,2013,203505.0
+915670,Kenya,Watermelons,2014,245597.0
+915671,Kenya,Watermelons,2015,356986.0
+915672,Kenya,Watermelons,2016,218322.0
+915673,Kenya,Watermelons,2017,176707.0
+915674,Kenya,Watermelons,2018,241578.0
+915675,Kenya,Watermelons,2019,160447.0
+915843,Kenya,Wheat,2010,31991.0
+915844,Kenya,Wheat,2011,20415.0
+915845,Kenya,Wheat,2012,29720.0
+915846,Kenya,Wheat,2013,27602.0
+915847,Kenya,Wheat,2014,15549.0
+915848,Kenya,Wheat,2015,19841.0
+915849,Kenya,Wheat,2016,14022.0
+915850,Kenya,Wheat,2017,12581.0
+915851,Kenya,Wheat,2018,25280.0
+915852,Kenya,Wheat,2019,27169.0
+1059551,Mexico,Apples,2010,101253.0
+1059552,Mexico,Apples,2011,110921.0
+1059553,Mexico,Apples,2012,64164.0
+1059554,Mexico,Apples,2013,145038.0
+1059555,Mexico,Apples,2014,129288.0
+1059556,Mexico,Apples,2015,136123.0
+1059557,Mexico,Apples,2016,132158.0
+1059558,Mexico,Apples,2017,133190.0
+1059559,Mexico,Apples,2018,125922.0
+1059560,Mexico,Apples,2019,143728.0
+1059728,Mexico,Apricots,2010,39003.0
+1059729,Mexico,Apricots,2011,34939.0
+1059730,Mexico,Apricots,2012,37667.0
+1059731,Mexico,Apricots,2013,55955.0
+1059732,Mexico,Apricots,2014,50939.0
+1059733,Mexico,Apricots,2015,60726.0
+1059734,Mexico,Apricots,2016,50778.0
+1059735,Mexico,Apricots,2017,51104.0
+1059736,Mexico,Apricots,2018,56000.0
+1059737,Mexico,Apricots,2019,52270.0
+1060376,Mexico,Bananas,2010,273423.0
+1060377,Mexico,Bananas,2011,287907.0
+1060378,Mexico,Bananas,2012,303491.0
+1060379,Mexico,Bananas,2013,289603.0
+1060380,Mexico,Bananas,2014,288331.0
+1060381,Mexico,Bananas,2015,291690.0
+1060382,Mexico,Bananas,2016,304484.0
+1060383,Mexico,Bananas,2017,297981.0
+1060384,Mexico,Bananas,2018,291399.0
+1060385,Mexico,Bananas,2019,291210.0
+1060553,Mexico,Barley,2010,25119.0
+1060554,Mexico,Barley,2011,22325.0
+1060555,Mexico,Barley,2012,31431.0
+1060556,Mexico,Barley,2013,20021.0
+1060557,Mexico,Barley,2014,26965.0
+1060558,Mexico,Barley,2015,23358.0
+1060559,Mexico,Barley,2016,29670.0
+1060560,Mexico,Barley,2017,28418.0
+1060561,Mexico,Barley,2018,28645.0
+1060562,Mexico,Barley,2019,26930.0
+1063139,Mexico,Chick peas,2010,14787.0
+1063140,Mexico,Chick peas,2011,15009.0
+1063141,Mexico,Chick peas,2012,20368.0
+1063142,Mexico,Chick peas,2013,18169.0
+1063143,Mexico,Chick peas,2014,16129.0
+1063144,Mexico,Chick peas,2015,17143.0
+1063145,Mexico,Chick peas,2016,18331.0
+1063146,Mexico,Chick peas,2017,19181.0
+1063147,Mexico,Chick peas,2018,18099.0
+1063148,Mexico,Chick peas,2019,21170.0
+1063905,Mexico,Coconuts,2010,63219.0
+1063906,Mexico,Coconuts,2011,61899.0
+1063907,Mexico,Coconuts,2012,63509.0
+1063908,Mexico,Coconuts,2013,66533.0
+1063909,Mexico,Coconuts,2014,66712.0
+1063910,Mexico,Coconuts,2015,64554.0
+1063911,Mexico,Coconuts,2016,63917.0
+1063912,Mexico,Coconuts,2017,63643.0
+1063913,Mexico,Coconuts,2018,63368.0
+1063914,Mexico,Coconuts,2019,63094.0
+1064082,Mexico,"Coffee, green",2010,3308.0
+1064083,Mexico,"Coffee, green",2011,3445.0
+1064084,Mexico,"Coffee, green",2012,3540.0
+1064085,Mexico,"Coffee, green",2013,3308.0
+1064086,Mexico,"Coffee, green",2014,3070.0
+1064087,Mexico,"Coffee, green",2015,2842.0
+1064088,Mexico,"Coffee, green",2016,2350.0
+1064089,Mexico,"Coffee, green",2017,2408.0
+1064090,Mexico,"Coffee, green",2018,2514.0
+1064091,Mexico,"Coffee, green",2019,2633.0
+1065929,Mexico,Grapes,2010,113322.0
+1065930,Mexico,Grapes,2011,103324.0
+1065931,Mexico,Grapes,2012,139438.0
+1065932,Mexico,Grapes,2013,127370.0
+1065933,Mexico,Grapes,2014,123266.0
+1065934,Mexico,Grapes,2015,130471.0
+1065935,Mexico,Grapes,2016,130146.0
+1065936,Mexico,Grapes,2017,146626.0
+1065937,Mexico,Grapes,2018,140006.0
+1065938,Mexico,Grapes,2019,149086.0
+1066800,Mexico,Lentils,2010,6974.0
+1066801,Mexico,Lentils,2011,12057.0
+1066802,Mexico,Lentils,2012,8624.0
+1066803,Mexico,Lentils,2013,2858.0
+1066804,Mexico,Lentils,2014,9831.0
+1066805,Mexico,Lentils,2015,5265.0
+1066806,Mexico,Lentils,2016,7482.0
+1066807,Mexico,Lentils,2017,10446.0
+1066808,Mexico,Lentils,2018,11090.0
+1066809,Mexico,Lentils,2019,11542.0
+1067331,Mexico,Maize,2010,32599.0
+1067332,Mexico,Maize,2011,29058.0
+1067333,Mexico,Maize,2012,31874.0
+1067334,Mexico,Maize,2013,31941.0
+1067335,Mexico,Maize,2014,32964.0
+1067336,Mexico,Maize,2015,34782.0
+1067337,Mexico,Maize,2016,37180.0
+1067338,Mexico,Maize,2017,37888.0
+1067339,Mexico,Maize,2018,38146.0
+1067340,Mexico,Maize,2019,40697.0
+1067489,Mexico,"Maize, green",2010,115287.0
+1067490,Mexico,"Maize, green",2011,121829.0
+1067491,Mexico,"Maize, green",2012,125530.0
+1067492,Mexico,"Maize, green",2013,125575.0
+1067493,Mexico,"Maize, green",2014,126857.0
+1067494,Mexico,"Maize, green",2015,126035.0
+1067495,Mexico,"Maize, green",2016,127882.0
+1067496,Mexico,"Maize, green",2017,153713.0
+1067497,Mexico,"Maize, green",2018,156596.0
+1067498,Mexico,"Maize, green",2019,150906.0
+1067666,Mexico,"Mangoes, mangosteens, guavas",2010,93310.0
+1067667,Mexico,"Mangoes, mangosteens, guavas",2011,92790.0
+1067668,Mexico,"Mangoes, mangosteens, guavas",2012,89976.0
+1067669,Mexico,"Mangoes, mangosteens, guavas",2013,95628.0
+1067670,Mexico,"Mangoes, mangosteens, guavas",2014,89422.0
+1067671,Mexico,"Mangoes, mangosteens, guavas",2015,101830.0
+1067672,Mexico,"Mangoes, mangosteens, guavas",2016,106447.0
+1067673,Mexico,"Mangoes, mangosteens, guavas",2017,108287.0
+1067674,Mexico,"Mangoes, mangosteens, guavas",2018,103421.0
+1067675,Mexico,"Mangoes, mangosteens, guavas",2019,110966.0
+1068116,Mexico,Millet,2010,155556.0
+1068117,Mexico,Millet,2011,150000.0
+1068118,Mexico,Millet,2012,160000.0
+1068119,Mexico,Millet,2013,149649.0
+1068120,Mexico,Millet,2014,250000.0
+1068121,Mexico,Millet,2015,130000.0
+1068122,Mexico,Millet,2016,110000.0
+1068123,Mexico,Millet,2018,157857.0
+1068124,Mexico,Millet,2019,138000.0
+1068552,Mexico,Oats,2010,16647.0
+1068553,Mexico,Oats,2011,9792.0
+1068554,Mexico,Oats,2012,17935.0
+1068555,Mexico,Oats,2013,18448.0
+1068556,Mexico,Oats,2014,17687.0
+1068557,Mexico,Oats,2015,17943.0
+1068558,Mexico,Oats,2016,18536.0
+1068559,Mexico,Oats,2017,16646.0
+1068560,Mexico,Oats,2018,19896.0
+1068561,Mexico,Oats,2019,20719.0
+1069585,Mexico,Oranges,2010,121099.0
+1069586,Mexico,Oranges,2011,123561.0
+1069587,Mexico,Oranges,2012,113398.0
+1069588,Mexico,Oranges,2013,137530.0
+1069589,Mexico,Oranges,2014,140928.0
+1069590,Mexico,Oranges,2015,141828.0
+1069591,Mexico,Oranges,2016,146326.0
+1069592,Mexico,Oranges,2017,144322.0
+1069593,Mexico,Oranges,2018,145031.0
+1069594,Mexico,Oranges,2019,143728.0
+1069762,Mexico,Papayas,2010,434566.0
+1069763,Mexico,Papayas,2011,446016.0
+1069764,Mexico,Papayas,2012,501101.0
+1069765,Mexico,Papayas,2013,514166.0
+1069766,Mexico,Papayas,2014,575497.0
+1069767,Mexico,Papayas,2015,556804.0
+1069768,Mexico,Papayas,2016,565946.0
+1069769,Mexico,Papayas,2017,577153.0
+1069770,Mexico,Papayas,2018,580160.0
+1069771,Mexico,Papayas,2019,574942.0
+1071499,Mexico,Potatoes,2010,277578.0
+1071500,Mexico,Potatoes,2011,262734.0
+1071501,Mexico,Potatoes,2012,268098.0
+1071502,Mexico,Potatoes,2013,267752.0
+1071503,Mexico,Potatoes,2014,273385.0
+1071504,Mexico,Potatoes,2015,271433.0
+1071505,Mexico,Potatoes,2016,279260.0
+1071506,Mexico,Potatoes,2017,289506.0
+1071507,Mexico,Potatoes,2018,298922.0
+1071508,Mexico,Potatoes,2019,305242.0
+1072505,Mexico,"Rice, paddy",2010,51901.0
+1072506,Mexico,"Rice, paddy",2011,50962.0
+1072507,Mexico,"Rice, paddy",2012,56231.0
+1072508,Mexico,"Rice, paddy",2013,54252.0
+1072509,Mexico,"Rice, paddy",2014,57123.0
+1072510,Mexico,"Rice, paddy",2015,58078.0
+1072511,Mexico,"Rice, paddy",2016,61345.0
+1072512,Mexico,"Rice, paddy",2017,63900.0
+1072513,Mexico,"Rice, paddy",2018,62849.0
+1072514,Mexico,"Rice, paddy",2019,63663.0
+1073356,Mexico,Seed cotton,2010,39003.0
+1073357,Mexico,Seed cotton,2011,38569.0
+1073358,Mexico,Seed cotton,2012,43141.0
+1073359,Mexico,Seed cotton,2013,47347.0
+1073360,Mexico,Seed cotton,2014,46936.0
+1073361,Mexico,Seed cotton,2015,44542.0
+1073362,Mexico,Seed cotton,2016,46747.0
+1073363,Mexico,Seed cotton,2017,47618.0
+1073364,Mexico,Seed cotton,2018,48325.0
+1073365,Mexico,Seed cotton,2019,44246.0
+1074064,Mexico,Soybeans,2010,10925.0
+1074065,Mexico,Soybeans,2011,13197.0
+1074066,Mexico,Soybeans,2012,17389.0
+1074067,Mexico,Soybeans,2013,15198.0
+1074068,Mexico,Soybeans,2014,18838.0
+1074069,Mexico,Soybeans,2015,13645.0
+1074070,Mexico,Soybeans,2016,18327.0
+1074071,Mexico,Soybeans,2017,16486.0
+1074072,Mexico,Soybeans,2018,16997.0
+1074073,Mexico,Soybeans,2019,15938.0
+1074798,Mexico,Sugar beet,2010,258929.0
+1074799,Mexico,Sugar beet,2011,250000.0
+1074800,Mexico,Sugar beet,2012,180000.0
+1074801,Mexico,Sugar beet,2013,140000.0
+1074802,Mexico,Sugar beet,2014,119565.0
+1074803,Mexico,Sugar beet,2015,119143.0
+1074804,Mexico,Sugar beet,2016,88737.0
+1074805,Mexico,Sugar beet,2017,62263.0
+1074806,Mexico,Sugar beet,2018,35528.0
+1074807,Mexico,Sugar beet,2019,26757.0
+1074947,Mexico,Sugar cane,2010,716274.0
+1074948,Mexico,Sugar cane,2011,696744.0
+1074949,Mexico,Sugar cane,2012,693030.0
+1074950,Mexico,Sugar cane,2013,781579.0
+1074951,Mexico,Sugar cane,2014,743900.0
+1074952,Mexico,Sugar cane,2015,730233.0
+1074953,Mexico,Sugar cane,2016,722701.0
+1074954,Mexico,Sugar cane,2017,737756.0
+1074955,Mexico,Sugar cane,2018,723262.0
+1074956,Mexico,Sugar cane,2019,745418.0
+1075625,Mexico,"Tobacco, unmanufactured",2010,17440.0
+1075626,Mexico,"Tobacco, unmanufactured",2011,21322.0
+1075627,Mexico,"Tobacco, unmanufactured",2012,21880.0
+1075628,Mexico,"Tobacco, unmanufactured",2013,20486.0
+1075629,Mexico,"Tobacco, unmanufactured",2014,20677.0
+1075630,Mexico,"Tobacco, unmanufactured",2015,19486.0
+1075631,Mexico,"Tobacco, unmanufactured",2016,22534.0
+1075632,Mexico,"Tobacco, unmanufactured",2017,22875.0
+1075633,Mexico,"Tobacco, unmanufactured",2018,23170.0
+1075634,Mexico,"Tobacco, unmanufactured",2019,24867.0
+1076930,Mexico,Watermelons,2010,235421.0
+1076931,Mexico,Watermelons,2011,242943.0
+1076932,Mexico,Watermelons,2012,275437.0
+1076933,Mexico,Watermelons,2013,262161.0
+1076934,Mexico,Watermelons,2014,274002.0
+1076935,Mexico,Watermelons,2015,288783.0
+1076936,Mexico,Watermelons,2016,310211.0
+1076937,Mexico,Watermelons,2017,321449.0
+1076938,Mexico,Watermelons,2018,358106.0
+1076939,Mexico,Watermelons,2019,342010.0
+1077107,Mexico,Wheat,2010,54185.0
+1077108,Mexico,Wheat,2011,54778.0
+1077109,Mexico,Wheat,2012,56568.0
+1077110,Mexico,Wheat,2013,52934.0
+1077111,Mexico,Wheat,2014,51935.0
+1077112,Mexico,Wheat,2015,45256.0
+1077113,Mexico,Wheat,2016,53388.0
+1077114,Mexico,Wheat,2017,52967.0
+1077115,Mexico,Wheat,2018,54373.0
+1077116,Mexico,Wheat,2019,55308.0
+1377721,Russian Federation,Apples,2010,51667.0
+1377722,Russian Federation,Apples,2011,63723.0
+1377723,Russian Federation,Apples,2012,77088.0
+1377724,Russian Federation,Apples,2013,83670.0
+1377725,Russian Federation,Apples,2014,88743.0
+1377726,Russian Federation,Apples,2015,85782.0
+1377727,Russian Federation,Apples,2016,86206.0
+1377728,Russian Federation,Apples,2017,87341.0
+1377729,Russian Federation,Apples,2018,90075.0
+1377730,Russian Federation,Apples,2019,92533.0
+1377805,Russian Federation,Apricots,2010,46364.0
+1377806,Russian Federation,Apricots,2011,54545.0
+1377807,Russian Federation,Apricots,2012,51818.0
+1377808,Russian Federation,Apricots,2013,56364.0
+1377809,Russian Federation,Apricots,2014,54386.0
+1377810,Russian Federation,Apricots,2015,53097.0
+1377811,Russian Federation,Apricots,2016,54764.0
+1377812,Russian Federation,Apricots,2017,57578.0
+1377813,Russian Federation,Apricots,2018,59075.0
+1377814,Russian Federation,Apricots,2019,60401.0
+1377889,Russian Federation,Barley,2010,16904.0
+1377890,Russian Federation,Barley,2011,22028.0
+1377891,Russian Federation,Barley,2012,18259.0
+1377892,Russian Federation,Barley,2013,19209.0
+1377893,Russian Federation,Barley,2014,22710.0
+1377894,Russian Federation,Barley,2015,21315.0
+1377895,Russian Federation,Barley,2016,22090.0
+1377896,Russian Federation,Barley,2017,26286.0
+1377897,Russian Federation,Barley,2018,21580.0
+1377898,Russian Federation,Barley,2019,24001.0
+1379080,Russian Federation,Chick peas,2016,8939.0
+1379081,Russian Federation,Chick peas,2017,9160.0
+1379082,Russian Federation,Chick peas,2018,7572.0
+1379083,Russian Federation,Chick peas,2019,9175.0
+1379760,Russian Federation,Grapes,2010,77034.0
+1379761,Russian Federation,Grapes,2011,93390.0
+1379762,Russian Federation,Grapes,2012,61909.0
+1379763,Russian Federation,Grapes,2013,95192.0
+1379764,Russian Federation,Grapes,2014,79207.0
+1379765,Russian Federation,Grapes,2015,75816.0
+1379766,Russian Federation,Grapes,2016,86973.0
+1379767,Russian Federation,Grapes,2017,85318.0
+1379768,Russian Federation,Grapes,2018,92256.0
+1379769,Russian Federation,Grapes,2019,96622.0
+1380152,Russian Federation,Lentils,2010,4923.0
+1380153,Russian Federation,Lentils,2011,11080.0
+1380154,Russian Federation,Lentils,2012,6598.0
+1380155,Russian Federation,Lentils,2013,7249.0
+1380156,Russian Federation,Lentils,2014,7909.0
+1380157,Russian Federation,Lentils,2015,8038.0
+1380158,Russian Federation,Lentils,2016,10686.0
+1380159,Russian Federation,Lentils,2017,12101.0
+1380160,Russian Federation,Lentils,2018,7855.0
+1380161,Russian Federation,Lentils,2019,8985.0
+1380404,Russian Federation,Maize,2010,30086.0
+1380405,Russian Federation,Maize,2011,43444.0
+1380406,Russian Federation,Maize,2012,42388.0
+1380407,Russian Federation,Maize,2013,50110.0
+1380408,Russian Federation,Maize,2014,43593.0
+1380409,Russian Federation,Maize,2015,49337.0
+1380410,Russian Federation,Maize,2016,55029.0
+1380411,Russian Federation,Maize,2017,48875.0
+1380412,Russian Federation,Maize,2018,48067.0
+1380413,Russian Federation,Maize,2019,56987.0
+1380488,Russian Federation,Millet,2010,7817.0
+1380489,Russian Federation,Millet,2011,13889.0
+1380490,Russian Federation,Millet,2012,10151.0
+1380491,Russian Federation,Millet,2013,11783.0
+1380492,Russian Federation,Millet,2014,12268.0
+1380493,Russian Federation,Millet,2015,12908.0
+1380494,Russian Federation,Millet,2016,15369.0
+1380495,Russian Federation,Millet,2017,13354.0
+1380496,Russian Federation,Millet,2018,11606.0
+1380497,Russian Federation,Millet,2019,12462.0
+1380800,Russian Federation,Oats,2010,14453.0
+1380801,Russian Federation,Oats,2011,18153.0
+1380802,Russian Federation,Oats,2012,14120.0
+1380803,Russian Federation,Oats,2013,16451.0
+1380804,Russian Federation,Oats,2014,17063.0
+1380805,Russian Federation,Oats,2015,16027.0
+1380806,Russian Federation,Oats,2016,17360.0
+1380807,Russian Federation,Oats,2017,19639.0
+1380808,Russian Federation,Oats,2018,17292.0
+1380809,Russian Federation,Oats,2019,18235.0
+1380884,Russian Federation,Oilseeds nes,2010,5355.0
+1380885,Russian Federation,Oilseeds nes,2011,7343.0
+1380886,Russian Federation,Oilseeds nes,2012,6113.0
+1380887,Russian Federation,Oilseeds nes,2013,6897.0
+1380888,Russian Federation,Oilseeds nes,2014,5808.0
+1380889,Russian Federation,Oilseeds nes,2015,5650.0
+1380890,Russian Federation,Oilseeds nes,2016,5975.0
+1380891,Russian Federation,Oilseeds nes,2017,6992.0
+1380892,Russian Federation,Oilseeds nes,2018,5469.0
+1380893,Russian Federation,Oilseeds nes,2019,5729.0
+1381040,Russian Federation,Oranges,2010,41935.0
+1381041,Russian Federation,Oranges,2011,33333.0
+1381042,Russian Federation,Oranges,2012,34839.0
+1381043,Russian Federation,Oranges,2013,36333.0
+1381044,Russian Federation,Oranges,2014,33235.0
+1381045,Russian Federation,Oranges,2015,32400.0
+1381046,Russian Federation,Oranges,2016,31000.0
+1381047,Russian Federation,Oranges,2017,42000.0
+1381048,Russian Federation,Oranges,2018,39524.0
+1381049,Russian Federation,Oranges,2019,37500.0
+1381544,Russian Federation,Potatoes,2010,100234.0
+1381545,Russian Federation,Potatoes,2011,148378.0
+1381546,Russian Federation,Potatoes,2012,134412.0
+1381547,Russian Federation,Potatoes,2013,144644.0
+1381548,Russian Federation,Potatoes,2014,149902.0
+1381549,Russian Federation,Potatoes,2015,159337.0
+1381550,Russian Federation,Potatoes,2016,157575.0
+1381551,Russian Federation,Potatoes,2017,162536.0
+1381552,Russian Federation,Potatoes,2018,170499.0
+1381553,Russian Federation,Potatoes,2019,178228.0
+1382048,Russian Federation,"Rice, paddy",2010,52801.0
+1382049,Russian Federation,"Rice, paddy",2011,50939.0
+1382050,Russian Federation,"Rice, paddy",2012,54900.0
+1382051,Russian Federation,"Rice, paddy",2013,49473.0
+1382052,Russian Federation,"Rice, paddy",2014,53621.0
+1382053,Russian Federation,"Rice, paddy",2015,55795.0
+1382054,Russian Federation,"Rice, paddy",2016,53031.0
+1382055,Russian Federation,"Rice, paddy",2017,53144.0
+1382056,Russian Federation,"Rice, paddy",2018,57622.0
+1382057,Russian Federation,"Rice, paddy",2019,57615.0
+1382412,Russian Federation,Soybeans,2010,11796.0
+1382413,Russian Federation,Soybeans,2011,13820.0
+1382414,Russian Federation,Soybeans,2012,12239.0
+1382415,Russian Federation,Soybeans,2013,12642.0
+1382416,Russian Federation,Soybeans,2014,12337.0
+1382417,Russian Federation,Soybeans,2015,12992.0
+1382418,Russian Federation,Soybeans,2016,14824.0
+1382419,Russian Federation,Soybeans,2017,14074.0
+1382420,Russian Federation,Soybeans,2018,14692.0
+1382421,Russian Federation,Soybeans,2019,15727.0
+1382580,Russian Federation,Sugar beet,2010,240927.0
+1382581,Russian Federation,Sugar beet,2011,391725.0
+1382582,Russian Federation,Sugar beet,2012,408863.0
+1382583,Russian Federation,Sugar beet,2013,442056.0
+1382584,Russian Federation,Sugar beet,2014,370147.0
+1382585,Russian Federation,Sugar beet,2015,387779.0
+1382586,Russian Federation,Sugar beet,2016,469998.0
+1382587,Russian Federation,Sugar beet,2017,441922.0
+1382588,Russian Federation,Sugar beet,2018,380571.0
+1382589,Russian Federation,Sugar beet,2019,479594.0
+1382798,Russian Federation,Tea,2010,2643.0
+1382799,Russian Federation,Tea,2011,2602.0
+1382800,Russian Federation,Tea,2012,3082.0
+1382801,Russian Federation,Tea,2013,1974.0
+1382802,Russian Federation,Tea,2014,4635.0
+1382803,Russian Federation,Tea,2015,4777.0
+1382804,Russian Federation,Tea,2016,5987.0
+1382805,Russian Federation,Tea,2017,9390.0
+1382806,Russian Federation,Tea,2018,8485.0
+1382807,Russian Federation,Tea,2019,5972.0
+1382882,Russian Federation,"Tobacco, unmanufactured",2010,10000.0
+1382883,Russian Federation,"Tobacco, unmanufactured",2011,13333.0
+1382884,Russian Federation,"Tobacco, unmanufactured",2012,50000.0
+1382885,Russian Federation,"Tobacco, unmanufactured",2013,1000.0
+1382886,Russian Federation,"Tobacco, unmanufactured",2016,1500.0
+1382887,Russian Federation,"Tobacco, unmanufactured",2017,6667.0
+1382888,Russian Federation,"Tobacco, unmanufactured",2018,12000.0
+1382889,Russian Federation,"Tobacco, unmanufactured",2019,12857.0
+1383415,Russian Federation,Watermelons,2010,97757.0
+1383416,Russian Federation,Watermelons,2011,98349.0
+1383417,Russian Federation,Watermelons,2012,116172.0
+1383418,Russian Federation,Watermelons,2013,105230.0
+1383419,Russian Federation,Watermelons,2014,103881.0
+1383420,Russian Federation,Watermelons,2015,108990.0
+1383421,Russian Federation,Watermelons,2016,127071.0
+1383422,Russian Federation,Watermelons,2017,135818.0
+1383423,Russian Federation,Watermelons,2018,147288.0
+1383424,Russian Federation,Watermelons,2019,147418.0
+1383499,Russian Federation,Wheat,2010,19181.0
+1383500,Russian Federation,Wheat,2011,22645.0
+1383501,Russian Federation,Wheat,2012,17727.0
+1383502,Russian Federation,Wheat,2013,22288.0
+1383503,Russian Federation,Wheat,2014,24976.0
+1383504,Russian Federation,Wheat,2015,23883.0
+1383505,Russian Federation,Wheat,2016,26854.0
+1383506,Russian Federation,Wheat,2017,31254.0
+1383507,Russian Federation,Wheat,2018,27250.0
+1383508,Russian Federation,Wheat,2019,27016.0
+1636167,Turkey,Apples,2010,157501.0
+1636168,Turkey,Apples,2011,160798.0
+1636169,Turkey,Apples,2012,165263.0
+1636170,Turkey,Apples,2013,180736.0
+1636171,Turkey,Apples,2014,144702.0
+1636172,Turkey,Apples,2015,149919.0
+1636173,Turkey,Apples,2016,168739.0
+1636174,Turkey,Apples,2017,172914.0
+1636175,Turkey,Apples,2018,207565.0
+1636176,Turkey,Apples,2019,207451.0
+1636344,Turkey,Apricots,2010,41646.0
+1636345,Turkey,Apricots,2011,57995.0
+1636346,Turkey,Apricots,2012,66636.0
+1636347,Turkey,Apricots,2013,67466.0
+1636348,Turkey,Apricots,2014,23596.0
+1636349,Turkey,Apricots,2015,56513.0
+1636350,Turkey,Apricots,2016,58964.0
+1636351,Turkey,Apricots,2017,78769.0
+1636352,Turkey,Apricots,2018,59639.0
+1636353,Turkey,Apricots,2019,64539.0
+1636971,Turkey,Bananas,2010,474657.0
+1636972,Turkey,Bananas,2011,458178.0
+1636973,Turkey,Bananas,2012,462438.0
+1636974,Turkey,Bananas,2013,461396.0
+1636975,Turkey,Bananas,2014,471017.0
+1636976,Turkey,Bananas,2015,463344.0
+1636977,Turkey,Bananas,2016,491447.0
+1636978,Turkey,Bananas,2017,540990.0
+1636979,Turkey,Bananas,2018,655053.0
+1636980,Turkey,Bananas,2019,645998.0
+1637148,Turkey,Barley,2010,24168.0
+1637149,Turkey,Barley,2011,26612.0
+1637150,Turkey,Barley,2012,25831.0
+1637151,Turkey,Barley,2013,29070.0
+1637152,Turkey,Barley,2014,23171.0
+1637153,Turkey,Barley,2015,28832.0
+1637154,Turkey,Barley,2016,24815.0
+1637155,Turkey,Barley,2017,29359.0
+1637156,Turkey,Barley,2018,26911.0
+1637157,Turkey,Barley,2019,26565.0
+1639449,Turkey,Chick peas,2010,11892.0
+1639450,Turkey,Chick peas,2011,12176.0
+1639451,Turkey,Chick peas,2012,12674.0
+1639452,Turkey,Chick peas,2013,12080.0
+1639453,Turkey,Chick peas,2014,11593.0
+1639454,Turkey,Chick peas,2015,12877.0
+1639455,Turkey,Chick peas,2016,12938.0
+1639456,Turkey,Chick peas,2017,11969.0
+1639457,Turkey,Chick peas,2018,12254.0
+1639458,Turkey,Chick peas,2019,12167.0
+1641898,Turkey,Grapes,2010,89057.0
+1641899,Turkey,Grapes,2011,90919.0
+1641900,Turkey,Grapes,2012,91593.0
+1641901,Turkey,Grapes,2013,85569.0
+1641902,Turkey,Grapes,2014,89390.0
+1641903,Turkey,Grapes,2015,79012.0
+1641904,Turkey,Grapes,2016,91906.0
+1641905,Turkey,Grapes,2017,100742.0
+1641906,Turkey,Grapes,2018,94307.0
+1641907,Turkey,Grapes,2019,101125.0
+1642252,Turkey,"Hazelnuts, with shell",2010,13875.0
+1642253,Turkey,"Hazelnuts, with shell",2011,10001.0
+1642254,Turkey,"Hazelnuts, with shell",2012,15612.0
+1642255,Turkey,"Hazelnuts, with shell",2013,12994.0
+1642256,Turkey,"Hazelnuts, with shell",2014,10632.0
+1642257,Turkey,"Hazelnuts, with shell",2015,14881.0
+1642258,Turkey,"Hazelnuts, with shell",2016,5954.0
+1642259,Turkey,"Hazelnuts, with shell",2017,9552.0
+1642260,Turkey,"Hazelnuts, with shell",2018,7070.0
+1642261,Turkey,"Hazelnuts, with shell",2019,10567.0
+1643281,Turkey,Lentils,2010,19089.0
+1643282,Turkey,Lentils,2011,18904.0
+1643283,Turkey,Lentils,2012,18657.0
+1643284,Turkey,Lentils,2013,14832.0
+1643285,Turkey,Lentils,2014,14176.0
+1643286,Turkey,Lentils,2015,16088.0
+1643287,Turkey,Lentils,2016,14818.0
+1643288,Turkey,Lentils,2017,14703.0
+1643289,Turkey,Lentils,2018,13610.0
+1643290,Turkey,Lentils,2019,12552.0
+1643803,Turkey,Maize,2010,72614.0
+1643804,Turkey,Maize,2011,71707.0
+1643805,Turkey,Maize,2012,73884.0
+1643806,Turkey,Maize,2013,89499.0
+1643807,Turkey,Maize,2014,90748.0
+1643808,Turkey,Maize,2015,93271.0
+1643809,Turkey,Maize,2016,94182.0
+1643810,Turkey,Maize,2017,92516.0
+1643811,Turkey,Maize,2018,96358.0
+1643812,Turkey,Maize,2019,94034.0
+1644195,Turkey,Millet,2010,23089.0
+1644196,Turkey,Millet,2011,23402.0
+1644197,Turkey,Millet,2012,16530.0
+1644198,Turkey,Millet,2013,23353.0
+1644199,Turkey,Millet,2014,25575.0
+1644200,Turkey,Millet,2015,23459.0
+1644201,Turkey,Millet,2016,23091.0
+1644202,Turkey,Millet,2017,21799.0
+1644203,Turkey,Millet,2018,21190.0
+1644204,Turkey,Millet,2019,27043.0
+1644649,Turkey,Oats,2010,23262.0
+1644650,Turkey,Oats,2011,25429.0
+1644651,Turkey,Oats,2012,23652.0
+1644652,Turkey,Oats,2013,25417.0
+1644653,Turkey,Oats,2014,22434.0
+1644654,Turkey,Oats,2015,24166.0
+1644655,Turkey,Oats,2016,22640.0
+1644656,Turkey,Oats,2017,22152.0
+1644657,Turkey,Oats,2018,24574.0
+1644658,Turkey,Oats,2019,24187.0
+1645534,Turkey,Oranges,2010,321305.0
+1645535,Turkey,Oranges,2011,315616.0
+1645536,Turkey,Oranges,2012,295324.0
+1645537,Turkey,Oranges,2013,325290.0
+1645538,Turkey,Oranges,2014,325632.0
+1645539,Turkey,Oranges,2015,334598.0
+1645540,Turkey,Oranges,2016,351070.0
+1645541,Turkey,Oranges,2017,379821.0
+1645542,Turkey,Oranges,2018,373972.0
+1645543,Turkey,Oranges,2019,226329.0
+1646950,Turkey,Potatoes,2010,323303.0
+1646951,Turkey,Potatoes,2011,324041.0
+1646952,Turkey,Potatoes,2012,280384.0
+1646953,Turkey,Potatoes,2013,315329.0
+1646954,Turkey,Potatoes,2014,324475.0
+1646955,Turkey,Potatoes,2015,309489.0
+1646956,Turkey,Potatoes,2016,328252.0
+1646957,Turkey,Potatoes,2017,336014.0
+1646958,Turkey,Potatoes,2018,334795.0
+1646959,Turkey,Potatoes,2019,353766.0
+1647835,Turkey,"Rice, paddy",2010,86899.0
+1647836,Turkey,"Rice, paddy",2011,90559.0
+1647837,Turkey,"Rice, paddy",2012,73539.0
+1647838,Turkey,"Rice, paddy",2013,81380.0
+1647839,Turkey,"Rice, paddy",2014,74856.0
+1647840,Turkey,"Rice, paddy",2015,79409.0
+1647841,Turkey,"Rice, paddy",2016,79272.0
+1647842,Turkey,"Rice, paddy",2017,82188.0
+1647843,Turkey,"Rice, paddy",2018,78244.0
+1647844,Turkey,"Rice, paddy",2019,79102.0
+1648425,Turkey,Seed cotton,2010,44751.0
+1648426,Turkey,Seed cotton,2011,47606.0
+1648427,Turkey,Seed cotton,2012,47493.0
+1648428,Turkey,Seed cotton,2013,49901.0
+1648429,Turkey,Seed cotton,2014,50339.0
+1648430,Turkey,Seed cotton,2015,47235.0
+1648431,Turkey,Seed cotton,2016,50481.0
+1648432,Turkey,Seed cotton,2017,48856.0
+1648433,Turkey,Seed cotton,2018,49553.0
+1648434,Turkey,Seed cotton,2019,46044.0
+1648913,Turkey,Soybeans,2010,36869.0
+1648914,Turkey,Soybeans,2011,38704.0
+1648915,Turkey,Soybeans,2012,36394.0
+1648916,Turkey,Soybeans,2013,41609.0
+1648917,Turkey,Soybeans,2014,43710.0
+1648918,Turkey,Soybeans,2015,43999.0
+1648919,Turkey,Soybeans,2016,43219.0
+1648920,Turkey,Soybeans,2017,44206.0
+1648921,Turkey,Soybeans,2018,42621.0
+1648922,Turkey,Soybeans,2019,42499.0
+1649798,Turkey,Sugar beet,2010,545932.0
+1649799,Turkey,Sugar beet,2011,548817.0
+1649800,Turkey,Sugar beet,2012,716664.0
+1649801,Turkey,Sugar beet,2013,566794.0
+1649802,Turkey,Sugar beet,2014,582446.0
+1649803,Turkey,Sugar beet,2015,598048.0
+1649804,Turkey,Sugar beet,2016,608559.0
+1649805,Turkey,Sugar beet,2017,624080.0
+1649806,Turkey,Sugar beet,2018,599801.0
+1649807,Turkey,Sugar beet,2019,583216.0
+1650560,Turkey,Tea,2010,30976.0
+1650561,Turkey,Tea,2011,29200.0
+1650562,Turkey,Tea,2012,29661.0
+1650563,Turkey,Tea,2013,27792.0
+1650564,Turkey,Tea,2014,29823.0
+1650565,Turkey,Tea,2015,31366.0
+1650566,Turkey,Tea,2016,31823.0
+1650567,Turkey,Tea,2017,28499.0
+1650568,Turkey,Tea,2018,34556.0
+1650569,Turkey,Tea,2019,30749.0
+1650737,Turkey,"Tobacco, unmanufactured",2010,6519.0
+1650738,Turkey,"Tobacco, unmanufactured",2011,5927.0
+1650739,Turkey,"Tobacco, unmanufactured",2012,6805.0
+1650740,Turkey,"Tobacco, unmanufactured",2013,7001.0
+1650741,Turkey,"Tobacco, unmanufactured",2014,7525.0
+1650742,Turkey,"Tobacco, unmanufactured",2015,7084.0
+1650743,Turkey,"Tobacco, unmanufactured",2016,8025.0
+1650744,Turkey,"Tobacco, unmanufactured",2017,9411.0
+1650745,Turkey,"Tobacco, unmanufactured",2018,8051.0
+1650746,Turkey,"Tobacco, unmanufactured",2019,8638.0
+1651965,Turkey,Watermelons,2010,385020.0
+1651966,Turkey,Watermelons,2011,394481.0
+1651967,Turkey,Watermelons,2012,411564.0
+1651968,Turkey,Watermelons,2013,396884.0
+1651969,Turkey,Watermelons,2014,407029.0
+1651970,Turkey,Watermelons,2015,417374.0
+1651971,Turkey,Watermelons,2016,424410.0
+1651972,Turkey,Watermelons,2017,428006.0
+1651973,Turkey,Watermelons,2018,433651.0
+1651974,Turkey,Watermelons,2019,439881.0
+1652142,Turkey,Wheat,2010,24400.0
+1652143,Turkey,Wheat,2011,27038.0
+1652144,Turkey,Wheat,2012,26723.0
+1652145,Turkey,Wheat,2013,28451.0
+1652146,Turkey,Wheat,2014,24294.0
+1652147,Turkey,Wheat,2015,28803.0
+1652148,Turkey,Wheat,2016,27070.0
+1652149,Turkey,Wheat,2017,28060.0
+1652150,Turkey,Wheat,2018,27440.0
+1652151,Turkey,Wheat,2019,27811.0
+1703120,United States of America,Apples,2010,309087.0
+1703121,United States of America,Apples,2011,319842.0
+1703122,United States of America,Apples,2012,309933.0
+1703123,United States of America,Apples,2013,362135.0
+1703124,United States of America,Apples,2014,416171.0
+1703125,United States of America,Apples,2015,347767.0
+1703126,United States of America,Apples,2016,391856.0
+1703127,United States of America,Apples,2017,394569.0
+1703128,United States of America,Apples,2018,394965.0
+1703129,United States of America,Apples,2019,420468.0
+1703297,United States of America,Apricots,2010,122471.0
+1703298,United States of America,Apricots,2011,126072.0
+1703299,United States of America,Apricots,2012,120089.0
+1703300,United States of America,Apricots,2013,126099.0
+1703301,United States of America,Apricots,2014,134508.0
+1703302,United States of America,Apricots,2015,97072.0
+1703303,United States of America,Apricots,2016,130584.0
+1703304,United States of America,Apricots,2017,90613.0
+1703305,United States of America,Apricots,2018,83636.0
+1703306,United States of America,Apricots,2019,119948.0
+1704005,United States of America,Bananas,2010,181438.0
+1704006,United States of America,Bananas,2011,194889.0
+1704007,United States of America,Bananas,2012,181869.0
+1704008,United States of America,Bananas,2013,181923.0
+1704009,United States of America,Bananas,2014,187701.0
+1704010,United States of America,Bananas,2015,161994.0
+1704011,United States of America,Bananas,2016,115204.0
+1704012,United States of America,Bananas,2017,79474.0
+1704013,United States of America,Bananas,2018,72561.0
+1704014,United States of America,Bananas,2019,106350.0
+1704182,United States of America,Barley,2010,39339.0
+1704183,United States of America,Barley,2011,37160.0
+1704184,United States of America,Barley,2012,35986.0
+1704185,United States of America,Barley,2013,38358.0
+1704186,United States of America,Barley,2014,39115.0
+1704187,United States of America,Barley,2015,37083.0
+1704188,United States of America,Barley,2016,41931.0
+1704189,United States of America,Barley,2017,39283.0
+1704190,United States of America,Barley,2018,41674.0
+1704191,United States of America,Barley,2019,41809.0
+1706259,United States of America,Chick peas,2010,15082.0
+1706260,United States of America,Chick peas,2011,18350.0
+1706261,United States of America,Chick peas,2012,18103.0
+1706262,United States of America,Chick peas,2013,18249.0
+1706263,United States of America,Chick peas,2014,14839.0
+1706264,United States of America,Chick peas,2015,13924.0
+1706265,United States of America,Chick peas,2016,19079.0
+1706266,United States of America,Chick peas,2017,12946.0
+1706267,United States of America,Chick peas,2018,16931.0
+1706268,United States of America,Chick peas,2019,17304.0
+1706740,United States of America,"Coffee, green",2010,15647.0
+1706741,United States of America,"Coffee, green",2011,13518.0
+1706742,United States of America,"Coffee, green",2012,12859.0
+1706743,United States of America,"Coffee, green",2013,9569.0
+1706744,United States of America,"Coffee, green",2014,9068.0
+1706745,United States of America,"Coffee, green",2015,8566.0
+1706746,United States of America,"Coffee, green",2016,6926.0
+1706747,United States of America,"Coffee, green",2017,7560.0
+1706748,United States of America,"Coffee, green",2018,8676.0
+1706749,United States of America,"Coffee, green",2019,8315.0
+1708854,United States of America,Grapes,2010,175944.0
+1708855,United States of America,Grapes,2011,173894.0
+1708856,United States of America,Grapes,2012,165831.0
+1708857,United States of America,Grapes,2013,185714.0
+1708858,United States of America,Grapes,2014,170855.0
+1708859,United States of America,Grapes,2015,168279.0
+1708860,United States of America,Grapes,2016,170904.0
+1708861,United States of America,Grapes,2017,165887.0
+1708862,United States of America,Grapes,2018,181729.0
+1708863,United States of America,Grapes,2019,164736.0
+1709208,United States of America,"Hazelnuts, with shell",2010,21644.0
+1709209,United States of America,"Hazelnuts, with shell",2011,30282.0
+1709210,United States of America,"Hazelnuts, with shell",2012,30249.0
+1709211,United States of America,"Hazelnuts, with shell",2013,33624.0
+1709212,United States of America,"Hazelnuts, with shell",2014,26900.0
+1709213,United States of America,"Hazelnuts, with shell",2015,20440.0
+1709214,United States of America,"Hazelnuts, with shell",2016,26659.0
+1709215,United States of America,"Hazelnuts, with shell",2017,17931.0
+1709216,United States of America,"Hazelnuts, with shell",2018,25980.0
+1709217,United States of America,"Hazelnuts, with shell",2019,19733.0
+1709859,United States of America,Lentils,2010,15305.0
+1709860,United States of America,Lentils,2011,12905.0
+1709861,United States of America,Lentils,2012,13206.0
+1709862,United States of America,Lentils,2013,16212.0
+1709863,United States of America,Lentils,2014,14914.0
+1709864,United States of America,Lentils,2015,12424.0
+1709865,United States of America,Lentils,2016,15846.0
+1709866,United States of America,Lentils,2017,8206.0
+1709867,United States of America,Lentils,2018,13126.0
+1709868,United States of America,Lentils,2019,14012.0
+1710390,United States of America,Maize,2010,95757.0
+1710391,United States of America,Maize,2011,92146.0
+1710392,United States of America,Maize,2012,77270.0
+1710393,United States of America,Maize,2013,99256.0
+1710394,United States of America,Maize,2014,107326.0
+1710395,United States of America,Maize,2015,105723.0
+1710396,United States of America,Maize,2016,117433.0
+1710397,United States of America,Maize,2017,110837.0
+1710398,United States of America,Maize,2018,110746.0
+1710399,United States of America,Maize,2019,105323.0
+1710567,United States of America,"Maize, green",2010,159927.0
+1710568,United States of America,"Maize, green",2011,159815.0
+1710569,United States of America,"Maize, green",2012,168946.0
+1710570,United States of America,"Maize, green",2013,164202.0
+1710571,United States of America,"Maize, green",2014,162780.0
+1710572,United States of America,"Maize, green",2015,216208.0
+1710573,United States of America,"Maize, green",2016,170175.0
+1710574,United States of America,"Maize, green",2017,182497.0
+1710575,United States of America,"Maize, green",2018,173672.0
+1710576,United States of America,"Maize, green",2019,180639.0
+1710726,United States of America,"Mangoes, mangosteens, guavas",2010,125532.0
+1710727,United States of America,"Mangoes, mangosteens, guavas",2011,191556.0
+1710728,United States of America,"Mangoes, mangosteens, guavas",2012,200385.0
+1710729,United States of America,"Mangoes, mangosteens, guavas",2013,243415.0
+1710730,United States of America,"Mangoes, mangosteens, guavas",2014,199024.0
+1710731,United States of America,"Mangoes, mangosteens, guavas",2015,208000.0
+1710732,United States of America,"Mangoes, mangosteens, guavas",2016,225102.0
+1710733,United States of America,"Mangoes, mangosteens, guavas",2017,232600.0
+1710734,United States of America,"Mangoes, mangosteens, guavas",2018,240000.0
+1710735,United States of America,"Mangoes, mangosteens, guavas",2019,248043.0
+1711071,United States of America,Millet,2010,17809.0
+1711072,United States of America,Millet,2011,15169.0
+1711073,United States of America,Millet,2012,8406.0
+1711074,United States of America,Millet,2013,16194.0
+1711075,United States of America,Millet,2014,17572.0
+1711076,United States of America,Millet,2015,18983.0
+1711077,United States of America,Millet,2016,20448.0
+1711078,United States of America,Millet,2017,20705.0
+1711079,United States of America,Millet,2018,16662.0
+1711080,United States of America,Millet,2019,20016.0
+1711637,United States of America,Oats,2010,23172.0
+1711638,United States of America,Oats,2011,20547.0
+1711639,United States of America,Oats,2012,21944.0
+1711640,United States of America,Oats,2013,22978.0
+1711641,United States of America,Oats,2014,24338.0
+1711642,United States of America,Oats,2015,25168.0
+1711643,United States of America,Oats,2016,23677.0
+1711644,United States of America,Oats,2017,22120.0
+1711645,United States of America,Oats,2018,23274.0
+1711646,United States of America,Oats,2019,23078.0
+1712257,United States of America,Oranges,2010,287467.0
+1712258,United States of America,Oranges,2011,317467.0
+1712259,United States of America,Oranges,2012,336472.0
+1712260,United States of America,Oranges,2013,305243.0
+1712261,United States of America,Oranges,2014,256368.0
+1712262,United States of America,Oranges,2015,247290.0
+1712263,United States of America,Oranges,2016,247510.0
+1712264,United States of America,Oranges,2017,216225.0
+1712265,United States of America,Oranges,2018,168816.0
+1712266,United States of America,Oranges,2019,234193.0
+1712434,United States of America,Papayas,2010,250055.0
+1712435,United States of America,Papayas,2011,246635.0
+1712436,United States of America,Papayas,2012,230356.0
+1712437,United States of America,Papayas,2013,208688.0
+1712438,United States of America,Papayas,2014,176359.0
+1712439,United States of America,Papayas,2015,204745.0
+1712440,United States of America,Papayas,2016,316714.0
+1712441,United States of America,Papayas,2017,258000.0
+1712442,United States of America,Papayas,2018,147500.0
+1712443,United States of America,Papayas,2019,190357.0
+1713802,United States of America,Potatoes,2010,449438.0
+1713803,United States of America,Potatoes,2011,446923.0
+1713804,United States of America,Potatoes,2012,457762.0
+1713805,United States of America,Potatoes,2013,463577.0
+1713806,United States of America,Potatoes,2014,471507.0
+1713807,United States of America,Potatoes,2015,469000.0
+1713808,United States of America,Potatoes,2016,486408.0
+1713809,United States of America,Potatoes,2017,483887.0
+1713810,United States of America,Potatoes,2018,497274.0
+1713811,United States of America,Potatoes,2019,503081.0
+1714393,United States of America,"Rice, paddy",2010,75375.0
+1714394,United States of America,"Rice, paddy",2011,79209.0
+1714395,United States of America,"Rice, paddy",2012,83651.0
+1714396,United States of America,"Rice, paddy",2013,86232.0
+1714397,United States of America,"Rice, paddy",2014,84919.0
+1714398,United States of America,"Rice, paddy",2015,83722.0
+1714399,United States of America,"Rice, paddy",2016,81121.0
+1714400,United States of America,"Rice, paddy",2017,84147.0
+1714401,United States of America,"Rice, paddy",2018,86213.0
+1714402,United States of America,"Rice, paddy",2019,83735.0
+1714983,United States of America,Seed cotton,2010,21881.0
+1714984,United States of America,Seed cotton,2011,25448.0
+1714985,United States of America,Seed cotton,2012,27251.0
+1714986,United States of America,Seed cotton,2013,24977.0
+1714987,United States of America,Seed cotton,2014,25886.0
+1714988,United States of America,Seed cotton,2015,25917.0
+1714989,United States of America,Seed cotton,2016,26230.0
+1714990,United States of America,Seed cotton,2017,26713.0
+1714991,United States of America,Seed cotton,2018,26819.0
+1714992,United States of America,Seed cotton,2019,27120.0
+1715409,United States of America,Soybeans,2010,29243.0
+1715410,United States of America,Soybeans,2011,28232.0
+1715411,United States of America,Soybeans,2012,26867.0
+1715412,United States of America,Soybeans,2013,29615.0
+1715413,United States of America,Soybeans,2014,31977.0
+1715414,United States of America,Soybeans,2015,32289.0
+1715415,United States of America,Soybeans,2016,34936.0
+1715416,United States of America,Soybeans,2017,33133.0
+1715417,United States of America,Soybeans,2018,33997.0
+1715418,United States of America,Soybeans,2019,31890.0
+1716117,United States of America,Sugar beet,2010,621142.0
+1716118,United States of America,Sugar beet,2011,533929.0
+1716119,United States of America,Sugar beet,2012,655763.0
+1716120,United States of America,Sugar beet,2013,636939.0
+1716121,United States of America,Sugar beet,2014,611797.0
+1716122,United States of America,Sugar beet,2015,692254.0
+1716123,United States of America,Sugar beet,2016,734763.0
+1716124,United States of America,Sugar beet,2017,710810.0
+1716125,United States of America,Sugar beet,2018,680481.0
+1716126,United States of America,Sugar beet,2019,654676.0
+1716294,United States of America,Sugar cane,2010,698951.0
+1716295,United States of America,Sugar cane,2011,750762.0
+1716296,United States of America,Sugar cane,2012,800565.0
+1716297,United States of America,Sugar cane,2013,757099.0
+1716298,United States of America,Sugar cane,2014,785279.0
+1716299,United States of America,Sugar cane,2015,811535.0
+1716300,United States of America,Sugar cane,2016,797242.0
+1716301,United States of America,Sugar cane,2017,824123.0
+1716302,United States of America,Sugar cane,2018,860642.0
+1716303,United States of America,Sugar cane,2019,783980.0
+1717179,United States of America,"Tobacco, unmanufactured",2010,23851.0
+1717180,United States of America,"Tobacco, unmanufactured",2011,20630.0
+1717181,United States of America,"Tobacco, unmanufactured",2012,25424.0
+1717182,United States of America,"Tobacco, unmanufactured",2013,22802.0
+1717183,United States of America,"Tobacco, unmanufactured",2014,25963.0
+1717184,United States of America,"Tobacco, unmanufactured",2015,24527.0
+1717185,United States of America,"Tobacco, unmanufactured",2016,22045.0
+1717186,United States of America,"Tobacco, unmanufactured",2017,24759.0
+1717187,United States of America,"Tobacco, unmanufactured",2018,20508.0
+1717188,United States of America,"Tobacco, unmanufactured",2019,23094.0
+1718091,United States of America,Watermelons,2010,348316.0
+1718092,United States of America,Watermelons,2011,344409.0
+1718093,United States of America,Watermelons,2012,349949.0
+1718094,United States of America,Watermelons,2013,356144.0
+1718095,United States of America,Watermelons,2014,334838.0
+1718096,United States of America,Watermelons,2015,341403.0
+1718097,United States of America,Watermelons,2016,396338.0
+1718098,United States of America,Watermelons,2017,421882.0
+1718099,United States of America,Watermelons,2018,392851.0
+1718100,United States of America,Watermelons,2019,407921.0
+1718268,United States of America,Wheat,2010,31167.0
+1718269,United States of America,Wheat,2011,29422.0
+1718270,United States of America,Wheat,2012,31154.0
+1718271,United States of America,Wheat,2013,31673.0
+1718272,United States of America,Wheat,2014,29378.0
+1718273,United States of America,Wheat,2015,29299.0
+1718274,United States of America,Wheat,2016,35408.0
+1718275,United States of America,Wheat,2017,31175.0
+1718276,United States of America,Wheat,2018,32005.0
+1718277,United States of America,Wheat,2019,34748.0
+1737858,Uzbekistan,Apples,2010,106110.0
+1737859,Uzbekistan,Apples,2011,99702.0
+1737860,Uzbekistan,Apples,2012,99817.0
+1737861,Uzbekistan,Apples,2013,99092.0
+1737862,Uzbekistan,Apples,2014,108192.0
+1737863,Uzbekistan,Apples,2015,114799.0
+1737864,Uzbekistan,Apples,2016,132022.0
+1737865,Uzbekistan,Apples,2017,108848.0
+1737866,Uzbekistan,Apples,2018,115203.0
+1737867,Uzbekistan,Apples,2019,114084.0
+1737942,Uzbekistan,Apricots,2010,91549.0
+1737943,Uzbekistan,Apricots,2011,97765.0
+1737944,Uzbekistan,Apricots,2012,101904.0
+1737945,Uzbekistan,Apricots,2013,107585.0
+1737946,Uzbekistan,Apricots,2014,111285.0
+1737947,Uzbekistan,Apricots,2015,115963.0
+1737948,Uzbekistan,Apricots,2016,121415.0
+1737949,Uzbekistan,Apricots,2017,127680.0
+1737950,Uzbekistan,Apricots,2018,127628.0
+1737951,Uzbekistan,Apricots,2019,123446.0
+1738110,Uzbekistan,Barley,2010,19135.0
+1738111,Uzbekistan,Barley,2011,12815.0
+1738112,Uzbekistan,Barley,2012,16579.0
+1738113,Uzbekistan,Barley,2013,14955.0
+1738114,Uzbekistan,Barley,2014,15140.0
+1738115,Uzbekistan,Barley,2015,16306.0
+1738116,Uzbekistan,Barley,2016,16248.0
+1738117,Uzbekistan,Barley,2017,13491.0
+1738118,Uzbekistan,Barley,2018,12386.0
+1738119,Uzbekistan,Barley,2019,14525.0
+1739000,Uzbekistan,Chick peas,2010,14231.0
+1739001,Uzbekistan,Chick peas,2011,22857.0
+1739002,Uzbekistan,Chick peas,2012,25000.0
+1739003,Uzbekistan,Chick peas,2013,20000.0
+1739004,Uzbekistan,Chick peas,2014,22800.0
+1739005,Uzbekistan,Chick peas,2015,23462.0
+1739006,Uzbekistan,Chick peas,2016,23281.0
+1739007,Uzbekistan,Chick peas,2017,24108.0
+1739008,Uzbekistan,Chick peas,2018,24740.0
+1739009,Uzbekistan,Chick peas,2019,25415.0
+1740071,Uzbekistan,Grapes,2010,92185.0
+1740072,Uzbekistan,Grapes,2011,97763.0
+1740073,Uzbekistan,Grapes,2012,108560.0
+1740074,Uzbekistan,Grapes,2013,116133.0
+1740075,Uzbekistan,Grapes,2014,121853.0
+1740076,Uzbekistan,Grapes,2015,128391.0
+1740077,Uzbekistan,Grapes,2016,132268.0
+1740078,Uzbekistan,Grapes,2017,156975.0
+1740079,Uzbekistan,Grapes,2018,157537.0
+1740080,Uzbekistan,Grapes,2019,153481.0
+1740239,Uzbekistan,"Hazelnuts, with shell",2010,8462.0
+1740240,Uzbekistan,"Hazelnuts, with shell",2011,10400.0
+1740241,Uzbekistan,"Hazelnuts, with shell",2012,9200.0
+1740242,Uzbekistan,"Hazelnuts, with shell",2013,10333.0
+1740243,Uzbekistan,"Hazelnuts, with shell",2014,11333.0
+1740244,Uzbekistan,"Hazelnuts, with shell",2015,13333.0
+1740245,Uzbekistan,"Hazelnuts, with shell",2016,12810.0
+1740246,Uzbekistan,"Hazelnuts, with shell",2017,11118.0
+1740247,Uzbekistan,"Hazelnuts, with shell",2018,11393.0
+1740248,Uzbekistan,"Hazelnuts, with shell",2019,11540.0
+1740323,Uzbekistan,Jute,2010,103786.0
+1740324,Uzbekistan,Jute,2011,105741.0
+1740325,Uzbekistan,Jute,2012,108108.0
+1740326,Uzbekistan,Jute,2013,110526.0
+1740327,Uzbekistan,Jute,2014,108108.0
+1740328,Uzbekistan,Jute,2015,105788.0
+1740329,Uzbekistan,Jute,2016,104659.0
+1740330,Uzbekistan,Jute,2017,106160.0
+1740331,Uzbekistan,Jute,2018,106515.0
+1740332,Uzbekistan,Jute,2019,106823.0
+1740575,Uzbekistan,Lentils,2010,8000.0
+1740576,Uzbekistan,Lentils,2011,14000.0
+1740577,Uzbekistan,Lentils,2012,11250.0
+1740578,Uzbekistan,Lentils,2013,9000.0
+1740579,Uzbekistan,Lentils,2014,10000.0
+1740580,Uzbekistan,Lentils,2015,9167.0
+1740581,Uzbekistan,Lentils,2016,9326.0
+1740582,Uzbekistan,Lentils,2017,9805.0
+1740583,Uzbekistan,Lentils,2018,9768.0
+1740584,Uzbekistan,Lentils,2019,9834.0
+1740827,Uzbekistan,Maize,2010,81837.0
+1740828,Uzbekistan,Maize,2011,96819.0
+1740829,Uzbekistan,Maize,2012,80357.0
+1740830,Uzbekistan,Maize,2013,106190.0
+1740831,Uzbekistan,Maize,2014,115626.0
+1740832,Uzbekistan,Maize,2015,117842.0
+1740833,Uzbekistan,Maize,2016,123607.0
+1740834,Uzbekistan,Maize,2017,104078.0
+1740835,Uzbekistan,Maize,2018,103776.0
+1740836,Uzbekistan,Maize,2019,96996.0
+1740911,Uzbekistan,Millet,2010,40476.0
+1740912,Uzbekistan,Millet,2011,71429.0
+1740913,Uzbekistan,Millet,2012,73900.0
+1740914,Uzbekistan,Millet,2013,80000.0
+1740915,Uzbekistan,Millet,2014,68889.0
+1740916,Uzbekistan,Millet,2015,64000.0
+1740917,Uzbekistan,Millet,2016,67482.0
+1740918,Uzbekistan,Millet,2017,76751.0
+1740919,Uzbekistan,Millet,2018,80333.0
+1740920,Uzbekistan,Millet,2019,83435.0
+1741196,Uzbekistan,Oilseeds nes,2010,10000.0
+1741197,Uzbekistan,Oilseeds nes,2011,10430.0
+1741198,Uzbekistan,Oilseeds nes,2012,9245.0
+1741199,Uzbekistan,Oilseeds nes,2013,7107.0
+1741200,Uzbekistan,Oilseeds nes,2014,6875.0
+1741201,Uzbekistan,Oilseeds nes,2015,10013.0
+1741202,Uzbekistan,Oilseeds nes,2016,13378.0
+1741203,Uzbekistan,Oilseeds nes,2017,15489.0
+1741204,Uzbekistan,Oilseeds nes,2018,21220.0
+1741205,Uzbekistan,Oilseeds nes,2019,29567.0
+1742112,Uzbekistan,Potatoes,2010,239717.0
+1742113,Uzbekistan,Potatoes,2011,253071.0
+1742114,Uzbekistan,Potatoes,2012,270329.0
+1742115,Uzbekistan,Potatoes,2013,287407.0
+1742116,Uzbekistan,Potatoes,2014,305405.0
+1742117,Uzbekistan,Potatoes,2015,334605.0
+1742118,Uzbekistan,Potatoes,2016,329901.0
+1742119,Uzbekistan,Potatoes,2017,357016.0
+1742120,Uzbekistan,Potatoes,2018,336862.0
+1742121,Uzbekistan,Potatoes,2019,346394.0
+1742448,Uzbekistan,"Rice, paddy",2010,36098.0
+1742449,Uzbekistan,"Rice, paddy",2011,51843.0
+1742450,Uzbekistan,"Rice, paddy",2012,42689.0
+1742451,Uzbekistan,"Rice, paddy",2013,75773.0
+1742452,Uzbekistan,"Rice, paddy",2014,72971.0
+1742453,Uzbekistan,"Rice, paddy",2015,60389.0
+1742454,Uzbekistan,"Rice, paddy",2016,62956.0
+1742455,Uzbekistan,"Rice, paddy",2017,55467.0
+1742456,Uzbekistan,"Rice, paddy",2018,52464.0
+1742457,Uzbekistan,"Rice, paddy",2019,48466.0
+1742728,Uzbekistan,Seed cotton,2010,25645.0
+1742729,Uzbekistan,Seed cotton,2011,26332.0
+1742730,Uzbekistan,Seed cotton,2012,26448.0
+1742731,Uzbekistan,Seed cotton,2013,25683.0
+1742732,Uzbekistan,Seed cotton,2014,26133.0
+1742733,Uzbekistan,Seed cotton,2015,25856.0
+1742734,Uzbekistan,Seed cotton,2016,23389.0
+1742735,Uzbekistan,Seed cotton,2017,23759.0
+1742736,Uzbekistan,Seed cotton,2018,20623.0
+1742737,Uzbekistan,Seed cotton,2019,25646.0
+1742940,Uzbekistan,Soybeans,2016,18710.0
+1742941,Uzbekistan,Soybeans,2017,25671.0
+1742942,Uzbekistan,Soybeans,2018,19005.0
+1742943,Uzbekistan,Soybeans,2019,35037.0
+1743393,Uzbekistan,"Tobacco, unmanufactured",2010,13333.0
+1743394,Uzbekistan,"Tobacco, unmanufactured",2011,11311.0
+1743395,Uzbekistan,"Tobacco, unmanufactured",2012,11301.0
+1743396,Uzbekistan,"Tobacco, unmanufactured",2013,19657.0
+1743397,Uzbekistan,"Tobacco, unmanufactured",2014,20841.0
+1743398,Uzbekistan,"Tobacco, unmanufactured",2015,15380.0
+1743399,Uzbekistan,"Tobacco, unmanufactured",2016,17159.0
+1743400,Uzbekistan,"Tobacco, unmanufactured",2017,15601.0
+1743401,Uzbekistan,"Tobacco, unmanufactured",2018,22894.0
+1743402,Uzbekistan,"Tobacco, unmanufactured",2019,25439.0
+1743813,Uzbekistan,Watermelons,2010,246848.0
+1743814,Uzbekistan,Watermelons,2011,282860.0
+1743815,Uzbekistan,Watermelons,2012,264139.0
+1743816,Uzbekistan,Watermelons,2013,307965.0
+1743817,Uzbekistan,Watermelons,2014,329340.0
+1743818,Uzbekistan,Watermelons,2015,356460.0
+1743819,Uzbekistan,Watermelons,2016,349363.0
+1743820,Uzbekistan,Watermelons,2017,398179.0
+1743821,Uzbekistan,Watermelons,2018,357322.0
+1743822,Uzbekistan,Watermelons,2019,416259.0
+1743897,Uzbekistan,Wheat,2010,46000.0
+1743898,Uzbekistan,Wheat,2011,45560.0
+1743899,Uzbekistan,Wheat,2012,47095.0
+1743900,Uzbekistan,Wheat,2013,47393.0
+1743901,Uzbekistan,Wheat,2014,47821.0
+1743902,Uzbekistan,Wheat,2015,48175.0
+1743903,Uzbekistan,Wheat,2016,48023.0
+1743904,Uzbekistan,Wheat,2017,43165.0
+1743905,Uzbekistan,Wheat,2018,41260.0
+1743906,Uzbekistan,Wheat,2019,46493.0
